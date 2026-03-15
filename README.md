@@ -62,7 +62,7 @@ Detailed technical specifications and resources for every production model.
 
 #### **Suzuki OM-27** (1981) - ![legacy](https://img.shields.io/badge/status-legacy-yellow)
 The analog original. Hybrid CMOS/Analog design using the `AY-5-1317A` chip. #Analog #Vintage #OM27
-- [**User Guide (Local PDF)**](./OM27%20Owners%20Guide.pdf) - Official operating instructions.
+- [**User Guide (Local PDF)**](./docs/manuals/suzuki/om-27/owners-guide.pdf) - Official operating instructions.
 - [**User Guide (Web)**](http://www.omnichord-heaven.com/owners_guides.html) - Mirror archive.
 - [**Schematic (Primary)**](https://circuitbending.miraheze.org/wiki/File:OM27_Schematic.pdf) - High-resolution service diagram.
 - [**Schematic (Mirror)**](https://www.scribd.com/document/720477103/Suzuki-Omnichord-OM-27-schematics) - Alternate host for redundancy.
@@ -70,13 +70,13 @@ The analog original. Hybrid CMOS/Analog design using the `AY-5-1317A` chip. #Ana
 
 #### **Suzuki OM-36 System One** (1984) - ![legacy](https://img.shields.io/badge/status-legacy-yellow)
 Introduced digital microprocessor control and expanded rhythm patterns. #Digital-Control #OM36
-- [**User Guide (Local PDF)**](./Om36%20OPG.pdf) - Official manual.
+- [**User Guide (Local PDF)**](./docs/manuals/suzuki/om-36/owners-guide.pdf) - Official manual.
 - [**User Guide (Web)**](http://www.omnichord-heaven.com/owners_guides.html) - Mirror archive.
 - [**Schematic Note**](https://www.reddit.com/r/Omnichord/comments/13wdvvf/om36_schematic/) - Technical baseline (Technicians use OM-84 schematics as a reference).
 
 #### **Suzuki OM-84 System Two** (1984) - ![legacy](https://img.shields.io/badge/status-legacy-yellow)
 Added "Chord Computer" memory and dual-voice mixing capabilities. #Chord-Computer #OM84
-- [**User Guide (Local PDF)**](./OM%2084%20Owners%20Guide.pdf) - Direct PDF download including Chord Computer setup.
+- [**User Guide (Local PDF)**](./docs/manuals/suzuki/om-84/owners-guide.pdf) - Direct PDF download including Chord Computer setup.
 - [**User Guide (Web)**](https://www.popsmusic.com/uploads/3/0/6/8/30682235/om84_owners_manual.pdf) - Mirror archive.
 - [**User Guide (Mirror)**](https://www.scribd.com/document/664559485/SUZUKI-OMNICHORD-om84-owners-manual) - Alternate host via Scribd.
 - [**Schematic**](https://www.scribd.com/document/720477279/Suzuki-Omnichord-OM-84-schematics) - Detailed logic and voice board breakdown.
@@ -84,13 +84,13 @@ Added "Chord Computer" memory and dual-voice mixing capabilities. #Chord-Compute
 
 #### **Suzuki OM-100 / OM-200M** (1989) - ![legacy](https://img.shields.io/badge/status-legacy-yellow)
 Transition to PCM synthesis and early MIDI implementation. #PCM #MIDI #OM100 #OM200M
-- [**User Guide (Local PDF)**](./OM100-200M%20Owners%20Guide.pdf) - Covers PCM wave selection and MIDI Out.
+- [**User Guide (Local PDF)**](./docs/manuals/suzuki/om-100-200m/owners-guide.pdf) - Covers PCM wave selection and MIDI Out.
 - [**User Guide (Web)**](http://www.omnichord-heaven.com/owners_guides.html) - Mirror archive.
 - [**Schematic**](https://circuitbending.miraheze.org/wiki/Suzuki_Omnichord) - Shared hardware architecture for PCM implementation.
 
 #### **Suzuki OM-150 / OM-250M** (1993) - ![legacy](https://img.shields.io/badge/status-legacy-yellow)
 Expanded 19-voice PCM engines and improved rhythm styles. #PCM #MIDI #OM150 #OM250M
-- [**User Guide (Local PDF)**](./OM250M%20150%20OPG.pdf) - Official operating manual.
+- [**User Guide (Local PDF)**](./docs/manuals/suzuki/om-150-250m/owners-guide.pdf) - Official operating manual.
 - [**User Guide (Web)**](http://www.omnichord-heaven.com/owners_guides.html) - Mirror archive.
 
 #### **Suzuki OM-300** (1996) - ![legacy](https://img.shields.io/badge/status-legacy-yellow)
@@ -100,7 +100,7 @@ The final "classic" design featuring 100 voices and advanced MIDI control. #Flag
 
 #### **Suzuki QChord QC-1** (1999) - ![stable](https://img.shields.io/badge/status-stable-green)
 Digital successor with QCard expansion slots and modern MIDI mapping. #QChord #MIDI #QC1
-- [**User Guide (Local PDF)**](./QChord%20Manual.pdf) - Official PDF for EZ-Play and QCards.
+- [**User Guide (Local PDF)**](./docs/manuals/suzuki/qchord/owners-guide.pdf) - Official PDF for EZ-Play and QCards.
 - [**User Guide (Primary)**](https://www.omnichord-heaven.com/downloads/manuals/qchord-manual.pdf) - Mirror archive.
 - [**User Guide (Mirror)**](https://www.qchord.net/docs/qchord-manual.html) - HTML-based web documentation.
 - [**Schematic**](https://www.scribd.com/document/720477201/Suzuki-Q-Chord-Schematic) - Complete circuitry and component mapping.
@@ -108,7 +108,7 @@ Digital successor with QCard expansion slots and modern MIDI mapping. #QChord #M
 
 #### **Suzuki OM-108** (2024) - ![maintained](https://img.shields.io/badge/status-maintained-blue)
 Current flagship with 5-pin MIDI and analog emulation layers. #Modern #OM108
-- [**Official Manual (Local PDF)**](./OM-108%20Owners%20Guide.pdf) - Full technical and playing guide.
+- [**Official Manual (Local PDF)**](./docs/manuals/suzuki/om-108/owners-guide.pdf) - Full technical and playing guide.
 - [**Official Manual (Web)**](https://www.suzuki-music.co.jp/manual/om-108_en) - Suzuki Music PDF archive.
 
 ### Modern Boutique Instruments
@@ -126,7 +126,7 @@ Current flagship with 5-pin MIDI and analog emulation layers. #Modern #OM108
 ### Vintage "Autochords" & Mechanical Origins
 - [**Hammond Piper Autochord (1970)**](https://archive.org/details/hammond-piper-service-manual) - ![legacy](https://img.shields.io/badge/status-legacy-yellow)
   The first "easy-play" electronic organ with automatic harmony. #History #Organ
-- [**Suzuki Tronichord (PC-27)**](./Tronichord%20Manual.pdf) - ![legacy](https://img.shields.io/badge/status-legacy-yellow)
+- [**Suzuki Tronichord (PC-27)**](./docs/manuals/suzuki/tronichord-pc-27/owners-guide.pdf) - ![legacy](https://img.shields.io/badge/status-legacy-yellow)
   The early 1980s precursor to the Omnichord. #History #Analog #Suzuki #Local-PDF
 
 ---
