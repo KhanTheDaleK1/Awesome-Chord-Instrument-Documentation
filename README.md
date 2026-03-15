@@ -274,6 +274,13 @@ Quick-reference for the essential hardware that defined portable chord sequencin
 
 ---
 
+## 🙏 Special Thanks
+*Acknowleging the pioneers of chord instrument preservation.*
+
+- [**Omnichord Heaven**](https://www.omnichord-heaven.com/) - The ultimate and official Suzuki Omnichord and Qchord resource library. This repository owes a massive debt to their decades of archiving, repair documentation, and community building.
+
+---
+
 ## 🤖 AI Context (agents.md)
 *For LLMs and coding agents.*
 
