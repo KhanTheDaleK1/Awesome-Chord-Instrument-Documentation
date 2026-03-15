@@ -39,7 +39,7 @@ A high-signal, machine-readable knowledge base for chord-driven electronic and a
 ---
 
 ## 🛠️ How-To Guides (Goal-Oriented)
-*Goal-oriented resources for solving specific problems or implementing features.*
+*Goal-oriented resources for solving specific problems or implement features.*
 
 - [**Mapping QChord Pitch Bend to VSTs**](https://www.kvraudio.com/forum/viewtopic.php?t=192282) - ![stable](https://img.shields.io/badge/status-stable-green)
   Forum guide on using Piz MIDI Plugins to translate aggressive strum pitch bends into standard MIDI notes. #Software-Guide #DAW #Mapping
@@ -57,13 +57,52 @@ A high-signal, machine-readable knowledge base for chord-driven electronic and a
 ## 📑 Reference (Information-Oriented)
 *Information-oriented technical specs, genealogy, and archives.*
 
-### Suzuki Documentation
-- [**Suzuki Full Model Genealogy**](https://www.omnichord-heaven.com/models/index.html) - ![maintained](https://img.shields.io/badge/status-maintained-blue)
-  Complete history, timelines, and specs for every production model from OM-series to present. #Historical-Documentation #Reference
-- [**QChord Owner's Manual**](https://www.omnichord-heaven.com/downloads/manuals/qchord-manual.pdf) - ![stable](https://img.shields.io/badge/status-stable-green)
-  Official EZ-Play setup, chord mapping, and digital cartridge operation. #Operating-Manual #QC1
-- [**Suzuki OM-Series Manual Archive**](http://www.omnichord-heaven.com/owners_guides.html) - ![maintained](https://img.shields.io/badge/status-maintained-blue)
-  Central repository for vintage analog routing, schematics, and operating manuals (OM-27 through OM-300). #Service #Operating-Manuals
+### Suzuki Full Model Genealogy
+Detailed technical specifications and resources for every production model.
+
+#### **Suzuki OM-27** (1981) - ![legacy](https://img.shields.io/badge/status-legacy-yellow)
+The analog original. Hybrid CMOS/Analog design using the `AY-5-1317A` chip. #Analog #Vintage #OM27
+- [**User Guide**](http://www.omnichord-heaven.com/owners_guides.html) - Official operating instructions.
+- [**Schematic (Primary)**](https://circuitbending.miraheze.org/wiki/File:OM27_Schematic.pdf) - High-resolution service diagram.
+- [**Schematic (Mirror)**](https://www.scribd.com/document/720477103/Suzuki-Omnichord-OM-27-schematics) - Alternate host for redundancy.
+- [**Repair Deep Dive**](https://erichizdepski.wordpress.com/2020/03/28/omnichord-om-27-repair/) - Analysis of the 4069UB oscillator and AY-5-1317A.
+
+#### **Suzuki OM-36 System One** (1984) - ![legacy](https://img.shields.io/badge/status-legacy-yellow)
+Introduced digital microprocessor control and expanded rhythm patterns. #Digital-Control #OM36
+- [**User Guide**](http://www.omnichord-heaven.com/owners_guides.html) - Official manual.
+- [**Schematic Note**](https://www.reddit.com/r/Omnichord/comments/13wdvvf/om36_schematic/) - Technical baseline (Technicians use OM-84 schematics as a reference).
+
+#### **Suzuki OM-84 System Two** (1984) - ![legacy](https://img.shields.io/badge/status-legacy-yellow)
+Added "Chord Computer" memory and dual-voice mixing capabilities. #Chord-Computer #OM84
+- [**User Guide (PDF)**](https://www.popsmusic.com/uploads/3/0/6/8/30682235/om84_owners_manual.pdf) - Direct download including Chord Computer setup.
+- [**User Guide (Mirror)**](https://www.scribd.com/document/664559485/SUZUKI-OMNICHORD-om84-owners-manual) - Alternate host via Scribd.
+- [**Schematic**](https://www.scribd.com/document/720477279/Suzuki-Omnichord-OM-84-schematics) - Detailed logic and voice board breakdown.
+- [**Repair Documentation**](https://erichizdepski.wordpress.com/2017/11/11/suzuki-omnichord-om-84-repair/) - IC behaviors (8523 PIT) and quad NAND gate logic.
+
+#### **Suzuki OM-100 / OM-200M** (1989) - ![legacy](https://img.shields.io/badge/status-legacy-yellow)
+Transition to PCM synthesis and early MIDI implementation. #PCM #MIDI #OM100 #OM200M
+- [**User Guide**](http://www.omnichord-heaven.com/owners_guides.html) - Covers PCM wave selection and MIDI Out.
+- [**Schematic**](https://circuitbending.miraheze.org/wiki/Suzuki_Omnichord) - Shared hardware architecture for PCM implementation.
+
+#### **Suzuki OM-150 / OM-250M** (1993) - ![legacy](https://img.shields.io/badge/status-legacy-yellow)
+Expanded 19-voice PCM engines and improved rhythm styles. #PCM #MIDI #OM150 #OM250M
+- [**User Guide**](http://www.omnichord-heaven.com/owners_guides.html) - Official operating manual.
+
+#### **Suzuki OM-300** (1996) - ![legacy](https://img.shields.io/badge/status-legacy-yellow)
+The final "classic" design featuring 100 voices and advanced MIDI control. #Flagship #MIDI #OM300
+- [**User Guide (Primary)**](https://device.report/Omnichord/OM300) - Detailed scan including MIDI implementation charts.
+- [**User Guide (Mirror)**](http://www.omnichord-heaven.com/owners_guides.html) - Central repository archive.
+
+#### **Suzuki QChord QC-1** (1999) - ![stable](https://img.shields.io/badge/status-stable-green)
+Digital successor with QCard expansion slots and modern MIDI mapping. #QChord #MIDI #QC1
+- [**User Guide (Primary)**](https://www.omnichord-heaven.com/downloads/manuals/qchord-manual.pdf) - Official PDF for EZ-Play and QCards.
+- [**User Guide (Mirror)**](https://www.qchord.net/docs/qchord-manual.html) - HTML-based web documentation.
+- [**Schematic**](https://www.scribd.com/document/720477201/Suzuki-Q-Chord-Schematic) - Complete circuitry and component mapping.
+- [**Repair Documentation**](https://www.popsmusic.com/qchord-do-it-yourself-repair-help.html) - Contact cleaning and power fault correction.
+
+#### **Suzuki OM-108** (2024) - ![maintained](https://img.shields.io/badge/status-maintained-blue)
+Current flagship with 5-pin MIDI and analog emulation layers. #Modern #OM108
+- [**Official PDF Manual**](https://www.suzuki-music.co.jp/manual/om-108_en) - Full technical and playing guide.
 
 ### Modern Boutique Instruments
 - [**Pocket Audio HiChord**](https://hichord.shop/) - ![maintained](https://img.shields.io/badge/status-maintained-blue)
