@@ -4,8 +4,6 @@
 ![Stability: Stable](https://img.shields.io/badge/stability-stable-green.svg)
 ![AI-Ready: Optimized](https://img.shields.io/badge/AI--Ready-Optimized-blue.svg)
 
-A high-signal, machine-readable knowledge base for chord-driven electronic and acoustic instruments. This repository follows the **Diátaxis Framework** to provide intent-based navigation for humans and AI agents.
-
 ---
 
 ## 🏛️ History of Chord Instruments: From Sumer to Synthesis
