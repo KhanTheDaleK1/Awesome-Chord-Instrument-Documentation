@@ -33,6 +33,8 @@
 
 - [**Omnichord 101 - History & Technique**](https://theproaudiofiles.com/suzuki-omnichord/) ![status-stable](https://img.shields.io/badge/status-stable-green) `[Article]`
   Comprehensive breakdown of history, strumplate interface, and analog circuit translation.
+- [**The Failed Instrument That Became an Ambient Legend**](https://youtu.be/R2GSSyd4liw) ![status-stable](https://img.shields.io/badge/status-stable-green) `[Documentary]`
+  Hainbach explores the history and unique sound of the Omnichord.
 - [**Omnichord Content Hub (Omnihub)**](https://sites.google.com/view/omnihub/home) ![status-maintained](https://img.shields.io/badge/status-maintained-blue) `[Community Hub]`
   The central directory for the Omnichord community, linking to Discord, Reddit, and specialized technical resources.
 
@@ -68,6 +70,8 @@
   Step-by-step on replacing the 2.2-ohm resistor after a polarity mismatch.
 - [**Le Strum Open Source Repository**](https://github.com/hotchk155/Voici-Le-Strum) ![status-open-source](https://img.shields.io/badge/status-open--source-brightgreen) `[GitHub Repo]`
   Firmware and hardware files for DIY MIDI chord control.
+- [**Modified Omnichord by Folktek**](https://youtu.be/R7FUiJN9Ehw) ![status-stable](https://img.shields.io/badge/status-stable-green) `[Demo]`
+  A showcase of high-end circuit bending and modifications by Ben Houston.
 
 ---
 
@@ -95,9 +99,11 @@
 
 - [**User Guide (Local PDF)**](./docs/manuals/suzuki/om-27/owners-guide.pdf) `[Direct PDF]`
 - [**User Guide (Web)**](http://www.omnichord-heaven.com/owners_guides.html) `[Web Archive]`
-- [**OM-27 Mk 1/Mk2 Demos**](https://sites.google.com/view/omnihub/home#h.am6qz1efv3yv) `[Omnihub]`
-- [**Dabchick vs. Omnichord**](https://sites.google.com/view/omnihub/home#h.rz3ht48kvb4i) `[Omnihub]`
-- [**Demo & Review (Tiger Arcade)**](https://sites.google.com/view/omnihub/home#h.f18l99yl757o) `[Omnihub]`
+- [**OM-27 Mk 1 Demo**](https://youtu.be/h1WIo7vhr1I) `[Demo]` (keyboard resource)
+- [**OM-27 Mk II Demo**](https://youtu.be/Ihkwl6G9E5k) `[Demo]` (keyboard resource)
+- [**Dabchick vs. Omnichord**](https://youtu.be/jfuSEdOdNz0) `[Demo]` (Barnaby Dixon)
+- [**OM-27 Tutorial**](https://youtu.be/C8fHvffnfiY) `[Tutorial]` (Tiger Arcade)
+- [**OM-27 Demo & Review**](https://youtu.be/zB9PtHTF2fE) `[Demo]` (Tiger Arcade)
 - [**Schematic (Primary)**](https://circuitbending.miraheze.org/wiki/File:OM27_Schematic.pdf) `[Direct PDF]`
 - [**Schematic (Mirror)**](https://www.scribd.com/document/720477103/Suzuki-Omnichord-OM-27-schematics) `[Scribd]`
 - [**Repair Deep Dive**](https://erichizdepski.wordpress.com/2020/03/28/omnichord-om-27-repair/) `[Technical Log]`
@@ -112,7 +118,6 @@
 
 - [**User Guide (Local PDF)**](./docs/manuals/suzuki/om-36/owners-guide.pdf) `[Direct PDF]`
 - [**User Guide (Web)**](http://www.omnichord-heaven.com/owners_guides.html) `[Web Archive]`
-- [**OM-36 Overview**](https://sites.google.com/view/omnihub/home#h.y27ujp8bclhb) `[Omnihub]`
 - [**Schematic Note**](https://www.reddit.com/r/Omnichord/comments/13wdvvf/om36_schematic/) `[Technical Note]`
 </details>
 
@@ -125,8 +130,8 @@
 
 - [**User Guide (Local PDF)**](./docs/manuals/suzuki/om-84/owners-guide.pdf) `[Direct PDF]`
 - [**User Guide (Web)**](https://www.popsmusic.com/uploads/3/0/6/8/30682235/om84_owners_manual.pdf) `[Direct PDF]`
-- [**OM-84 Overview (Jorb)**](https://sites.google.com/view/omnihub/home#h.j4wpc295hawm) `[Omnihub]`
-- [**OM-84 Overview (Bluupanda)**](https://sites.google.com/view/omnihub/home#h.nwpyshgtztht) `[Omnihub]`
+- [**OM-84 System Two Demo**](https://youtu.be/Oiz2m0AmgIQ) `[Demo]` (keyboard resource)
+- [**Modified OM-84 by Folktek**](https://youtu.be/VOqLSI2w_Ak) `[Demo]` (Folktek)
 - [**User Guide (Mirror)**](https://www.scribd.com/document/664559485/SUZUKI-OMNICHORD-om84-owners-manual) `[Scribd]`
 - [**Schematic**](https://www.scribd.com/document/720477279/Suzuki-Omnichord-OM-84-schematics) `[Scribd]`
 - [**Repair Documentation**](https://erichizdepski.wordpress.com/2017/11/11/suzuki-omnichord-om-84-repair/) `[Technical Log]`
@@ -141,8 +146,9 @@
 
 - [**User Guide (Local PDF)**](./docs/manuals/suzuki/om-100-200m/owners-guide.pdf) `[Direct PDF]`
 - [**User Guide (Web)**](http://www.omnichord-heaven.com/owners_guides.html) `[Web Archive]`
-- [**OM-100 Demo**](https://sites.google.com/view/omnihub/home#h.un8kcszgtmft) `[Omnihub]`
-- [**OM-200M Demo**](https://sites.google.com/view/omnihub/home#h.nqfg5pj0d7by) `[Omnihub]`
+- [**OM-100 Demo**](https://youtu.be/ZEW6ff9TJ4c) `[Demo]` (keyboard resource)
+- [**OM-200M Demo**](https://youtu.be/1UKz0euYX5U) `[Demo]` (keyboard resource)
+- [**Circuit Bent OM-200m**](https://youtu.be/FOVBIwl1WH0) `[Demo]` (Notch Audio)
 - [**Schematic**](https://circuitbending.miraheze.org/wiki/Suzuki_Omnichord) `[Wiki]`
 </details>
 
@@ -155,8 +161,9 @@
 
 - [**User Guide (Local PDF)**](./docs/manuals/suzuki/om-150-250m/owners-guide.pdf) `[Direct PDF]`
 - [**User Guide (Web)**](http://www.omnichord-heaven.com/owners_guides.html) `[Web Archive]`
-- [**OM-150 Demo**](https://sites.google.com/view/omnihub/home#h.wbkdzjbr9dn0) `[Omnihub]`
-- [**OM-250M Demo**](https://sites.google.com/view/omnihub/home#h.rmx30eulv5tg) `[Omnihub]`
+- [**OM-150 All Sounds**](https://youtu.be/U-xYnzPi2ng) `[Demo]` (General Jams)
+- [**OM-150 Chill Bubbles**](https://youtu.be/5CxUwLbMw_0) `[Demo]` (General Jams)
+- [**OM-250M Demo**](https://youtu.be/5axBQ83S348) `[Demo]` (keyboard resource)
 </details>
 
 <details>
@@ -168,7 +175,7 @@
 
 - [**User Guide (Primary)**](https://device.report/Omnichord/OM300) `[Web View]`
 - [**User Guide (Mirror)**](http://www.omnichord-heaven.com/owners_guides.html) `[Web Archive]`
-- [**OM-300 Demo**](https://sites.google.com/view/omnihub/home#h.3qia6cx18j0z) `[Omnihub]`
+- [**OM-300 Demo**](https://youtu.be/KdtR_TREAyQ) `[Demo]` (keyboard resource)
 </details>
 
 <details>
@@ -181,7 +188,7 @@
 - [**User Guide (Local PDF)**](./docs/manuals/suzuki/qchord/owners-guide.pdf) `[Direct PDF]`
 - [**User Guide (Primary)**](https://www.omnichord-heaven.com/downloads/manuals/qchord-manual.pdf) `[Direct PDF]`
 - [**User Guide (Mirror)**](https://www.qchord.net/docs/qchord-manual.html) `[HTML]`
-- [**Qchord QC-1 Demo**](https://sites.google.com/view/omnihub/home#h.cat415vn8izv) `[Omnihub]`
+- [**Qchord QC-1 Demo**](https://youtu.be/eBE4HK-Q5sk) `[Demo]` (keyboard resource)
 - [**Schematic**](https://www.scribd.com/document/720477201/Suzuki-Q-Chord-Schematic) `[Scribd]`
 - [**Repair Documentation**](https://www.popsmusic.com/qchord-do-it-yourself-repair-help.html) `[Repair Guide]`
 </details>
@@ -195,9 +202,6 @@
 
 - [**Official Manual (Local PDF)**](./docs/manuals/suzuki/om-108/owners-guide.pdf) `[Direct PDF]`
 - [**Official Manual (Web)**](https://www.suzuki-music.co.jp/manual/om-108_en) `[Direct PDF]`
-- [**OM-108 Overview (Aryy)**](https://sites.google.com/view/omnihub/home#h.umppwluenouv) `[Omnihub]`
-- [**OM-108 vs. Qchord Comparison**](https://sites.google.com/view/omnihub/home#h.5kjmj2jo7kjs) `[Omnihub]`
-- [**OM-108 vs. OM-84 Comparison**](https://sites.google.com/view/omnihub/home#h.11gy0h249knt) `[Omnihub]`
 </details>
 
 ### Iconic Chord Keyboards & Pocket Stations
@@ -402,7 +406,6 @@ Quick-reference for the essential hardware that defined portable chord sequencin
   - **Production:** 1980 – 1981 (Discontinued)
   - **MSRP:** ~$150 (Launch)
   - **Notable Fact:** The direct precursor to the Omnichord; extremely rare and marketed as the "Portachord."
-  - [**PC-27 Overview**](https://sites.google.com/view/omnihub/home#h.cgai53790bvd) `[Omnihub]`
 
 ---
 
