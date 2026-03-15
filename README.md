@@ -87,6 +87,10 @@
 <details>
 <summary><b>Suzuki OM-27 (1981)</b></summary>
 
+- **Production:** 1981 – 1984 (Discontinued)
+- **MSRP:** $200 – $300 (Launch)
+- **Notable Fact:** The first true Omnichord; Suzuki produced 40,000 units in the first year alone.
+
 - [**User Guide (Local PDF)**](./docs/manuals/suzuki/om-27/owners-guide.pdf) `[Direct PDF]`
 - [**User Guide (Web)**](http://www.omnichord-heaven.com/owners_guides.html) `[Web Archive]`
 - [**Schematic (Primary)**](https://circuitbending.miraheze.org/wiki/File:OM27_Schematic.pdf) `[Direct PDF]`
@@ -97,6 +101,10 @@
 <details>
 <summary><b>Suzuki OM-36 System One (1984)</b></summary>
 
+- **Production:** 1984 – 1989 (Discontinued)
+- **MSRP:** £99 (Launch)
+- **Notable Fact:** Known as "System One," it updated the original design with 36 chords (later expandable to 84).
+
 - [**User Guide (Local PDF)**](./docs/manuals/suzuki/om-36/owners-guide.pdf) `[Direct PDF]`
 - [**User Guide (Web)**](http://www.omnichord-heaven.com/owners_guides.html) `[Web Archive]`
 - [**Schematic Note**](https://www.reddit.com/r/Omnichord/comments/13wdvvf/om36_schematic/) `[Technical Note]`
@@ -104,6 +112,10 @@
 
 <details>
 <summary><b>Suzuki OM-84 System Two (1984)</b></summary>
+
+- **Production:** 1984 – 1989 (Discontinued)
+- **MSRP:** £99 (Launch)
+- **Notable Fact:** "System Two" introduced dual strumplate voices and the first integrated chord memory sequencer.
 
 - [**User Guide (Local PDF)**](./docs/manuals/suzuki/om-84/owners-guide.pdf) `[Direct PDF]`
 - [**User Guide (Web)**](https://www.popsmusic.com/uploads/3/0/6/8/30682235/om84_owners_manual.pdf) `[Direct PDF]`
@@ -115,6 +127,10 @@
 <details>
 <summary><b>Suzuki OM-100 / OM-200M (1989)</b></summary>
 
+- **Production:** 1989 – 1993 (Discontinued)
+- **MSRP:** $229 (OM-100) / $299 (OM-200M)
+- **Notable Fact:** The OM-200M was the first model to feature native MIDI Out, enabling control of external synths.
+
 - [**User Guide (Local PDF)**](./docs/manuals/suzuki/om-100-200m/owners-guide.pdf) `[Direct PDF]`
 - [**User Guide (Web)**](http://www.omnichord-heaven.com/owners_guides.html) `[Web Archive]`
 - [**Schematic**](https://circuitbending.miraheze.org/wiki/Suzuki_Omnichord) `[Wiki]`
@@ -123,6 +139,10 @@
 <details>
 <summary><b>Suzuki OM-150 / OM-250M (1993)</b></summary>
 
+- **Production:** 1993 – 1996 (Discontinued)
+- **MSRP:** ~$250 - $300
+- **Notable Fact:** These models refined the PCM sounds and ergonomics before the transition to the OM-300.
+
 - [**User Guide (Local PDF)**](./docs/manuals/suzuki/om-150-250m/owners-guide.pdf) `[Direct PDF]`
 - [**User Guide (Web)**](http://www.omnichord-heaven.com/owners_guides.html) `[Web Archive]`
 </details>
@@ -130,12 +150,20 @@
 <details>
 <summary><b>Suzuki OM-300 (1996)</b></summary>
 
+- **Production:** 1996 (Discontinued 1996)
+- **MSRP:** $300+ (Launch)
+- **Notable Fact:** Extremely rare final original model; its drum preset is the foundation of the Gorillaz hit "Clint Eastwood."
+
 - [**User Guide (Primary)**](https://device.report/Omnichord/OM300) `[Web View]`
 - [**User Guide (Mirror)**](http://www.omnichord-heaven.com/owners_guides.html) `[Web Archive]`
 </details>
 
 <details>
 <summary><b>Suzuki QChord QC-1 (1999)</b></summary>
+
+- **Production:** 1999 – 2020 (Discontinued)
+- **MSRP:** $250 (Launch)
+- **Notable Fact:** A digital reimagining with 100 voices and a QCard expansion slot for proprietary song cartridges.
 
 - [**User Guide (Local PDF)**](./docs/manuals/suzuki/qchord/owners-guide.pdf) `[Direct PDF]`
 - [**User Guide (Primary)**](https://www.omnichord-heaven.com/downloads/manuals/qchord-manual.pdf) `[Direct PDF]`
@@ -146,6 +174,10 @@
 
 <details>
 <summary><b>Suzuki OM-108 (2024)</b></summary>
+
+- **Production:** 2024 – Present (Active)
+- **MSRP:** $800+ (Launch)
+- **Notable Fact:** A 70th-anniversary tribute that returns to analog-voiced synthesis while expanding to 108 chords.
 
 - [**Official Manual (Local PDF)**](./docs/manuals/suzuki/om-108/owners-guide.pdf) `[Direct PDF]`
 - [**Official Manual (Web)**](https://www.suzuki-music.co.jp/manual/om-108_en) `[Direct PDF]`
@@ -173,24 +205,39 @@ Quick-reference for the essential hardware that defined portable chord sequencin
 > **Power Specs:** 12V DC, **Center-Positive** (Yamaha PA-3B/PA-130 Standard).
 
 #### **Yamaha QY10** (1990-1995)
+- **Production:** 1990 – 1995 (Discontinued)
+- **MSRP:** $399 (Launch)
+- **Notable Fact:** The first "Walkstation," designed to be roughly the size of a VHS tape for mobile composing.
 - [**Historical Overview**](https://en.wikipedia.org/wiki/Yamaha_QY10) `[Wiki]`
 - [**Operating Manual**](https://usa.yamaha.com/files/download/other_assets/5/317585/QY10E.PDF) `[Direct PDF]`
 - [**Service Manual**](https://archive.org/details/yamaha-qy10-service-manual) `[Web Archive]`
 
 #### **Yamaha QY20** (1992-1997)
+- **Production:** 1992 – 1997 (Discontinued)
+- **MSRP:** ~$450 (Launch)
+- **Notable Fact:** Introduced a much larger graphic display and a 2-octave micro-keyboard for easier data entry.
 - [**Historical Overview**](https://synthmania.com/yamaha-qy20/) `[Web Archive]`
 - [**Operating Manual**](https://usa.yamaha.com/files/download/other_assets/7/318357/QY20E.PDF) `[Direct PDF]`
 - [**Battery Replacement Guide**](https://www.ifixit.com/Guide/Yamaha+QY20+Internal+Battery+Replacement/100000) `[How-To]`
 
 #### **Yamaha QR10** (1993-1996)
+- **Production:** 1993 – 1996 (Discontinued)
+- **MSRP:** ~$350 (Launch)
+- **Notable Fact:** Marketed as a "Music Accompaniment Player" with a built-in 8-bit sampler for capturing quick ideas.
 - [**Historical Overview**](https://en.wikipedia.org/wiki/Yamaha_QY10) `[Wiki]`
 - [**Operating Manual**](https://usa.yamaha.com/files/download/other_assets/4/317584/QR10E.PDF) `[Direct PDF]`
 
 #### **Yamaha QY70** (1997-2001)
+- **Production:** 1997 – 2001 (Discontinued)
+- **MSRP:** ~$599 (Launch)
+- **Notable Fact:** The first portable QY with full Yamaha XG support, featuring over 500 high-quality voices.
 - [**Historical Overview**](https://synthpedia.net/yamaha/qy70/) `[Reference]`
 - [**Service Manual**](https://archive.org/details/yamaha-qy70-service-manual) `[Web Archive]`
 
 #### **Yamaha QY100** (1998-2014)
+- **Production:** 2001 – 2014 (Discontinued)
+- **MSRP:** ~$649 (Launch)
+- **Notable Fact:** The peak of the series; added a guitar/mic input with amp simulation and SmartMedia storage.
 - [**Historical Overview**](https://synthpedia.net/yamaha/qy100/) `[Reference]`
 - [**Operating Manual**](https://usa.yamaha.com/files/download/other_assets/3/319683/QY100E.pdf) `[Direct PDF]`
 </details>
@@ -202,29 +249,50 @@ Quick-reference for the essential hardware that defined portable chord sequencin
 > **Power Specs:** 6V to 7.5V DC, **Center-Negative** (Casio AD-1/AD-4160 Standard).
 
 #### **Casio SK-1** (1985-1988)
+- **Production:** 1985 – 1988 (Discontinued)
+- **MSRP:** $139 (Launch)
+- **Notable Fact:** Democratized sampling technology; its 8-bit lo-fi sound became a staple of early hip-hop and indie.
 - [**Historical Overview**](https://web.casio.com/emi/40th/history/sk-1.html) `[Official]`
 - [**Service Manual**](https://warningwillrobinson.com.au/manuals/Casio%20SK-1%20Service%20manual.pdf) `[Direct PDF]`
 - [**Modification (Circuit Bending)**](https://www.anti-theory.com/soundart/circuitbend/cb04.html) `[Technical Guide]`
 
 #### **Casio SK-5** (1987-1990)
+- **Production:** 1987 – 1990 (Discontinued)
+- **MSRP:** ~$100 (Launch)
+- **Notable Fact:** Added four dedicated sample pads for "preset" samples like a barking dog and surf noises.
 - [**Historical Overview**](https://www.perfectcircuit.com/signal/casio-sk1-history) `[Article]`
 - [**Service Manual**](https://archive.org/details/casio-sk-5-service-manual) `[Web Archive]`
 
 #### **Casio SK-8** (1987-1991)
+- **Production:** 1987 – 1991 (Discontinued)
+- **MSRP:** ~$150 (Launch)
+- **Notable Fact:** A "Melody Guide" variant with light-up keys and a ROM pack slot for song expansion.
 - [**Historical Overview**](https://www.casio.com/jp/electronic-musical-instruments/) `[Official]`
 - [**Operating Manual**](https://www.manualslib.com/manual/1218084/Casio-Sk-8.html) `[Web View]`
 
 #### **Casio SK-200** (1987-1992)
+- **Production:** 1987 – 1992 (Discontinued)
+- **MSRP:** ~$200 (Launch)
+- **Notable Fact:** A more professional SK variant with larger keys and improved synthesis features.
 - [**Historical Overview**](https://www.vintagesynth.com/casio/sk200.php) `[Wiki]`
 
 #### **Casio PT-30** (1983-1986)
+- **Production:** 1983 – 1986 (Discontinued)
+- **MSRP:** ~$120 (Launch)
+- **Notable Fact:** Features a "Harmony Arranger" that automatically creates chord accompaniments for melodies.
 - [**Historical Overview**](https://www.muzines.co.uk/articles/casio-pt-30/11981) `[Article]`
 - [**Service Manual**](https://archive.org/details/casio-pt-30-service-manual) `[Web Archive]`
 
 #### **Casio PT-50** (1983-1987)
+- **Production:** 1983 – 1987 (Discontinued)
+- **MSRP:** ~$150 (Launch)
+- **Notable Fact:** Famously appeared as a background prop in the 1984 movie *Gremlins*.
 - [**Historical Overview**](https://www.casio.com/jp/electronic-musical-instruments/) `[Official]`
 
 #### **Casio VL-1** (1979-1984)
+- **Production:** 1979 – 1984 (Discontinued)
+- **MSRP:** $69.95 (Launch)
+- **Notable Fact:** The first commercial digital synth; features a calculator and the "Da Da Da" rhythm preset.
 - [**Historical Overview**](https://en.wikipedia.org/wiki/Casio_VL-1) `[Wiki]`
 - [**Service Manual**](https://archive.org/details/casio-vl-1-service-manual) `[Web Archive]`
 </details>
@@ -233,18 +301,30 @@ Quick-reference for the essential hardware that defined portable chord sequencin
 <summary><b>Yamaha VSS & DJX series (Performance & Dance)</b></summary>
 
 #### **Yamaha VSS-30** (1987-1989)
+- **Production:** 1987 – 1989 (Discontinued)
+- **MSRP:** ~$100 (Launch)
+- **Notable Fact:** A cult-classic 8-bit sampler used extensively by Sigur Rós for its unique "U-Turn" loop mode.
 - [**Historical Overview**](https://www.vintagesynth.com/yamaha/vss30.php) `[Wiki]`
 - [**Service Manual**](https://archive.org/details/yamaha-vss-30-service-manual) `[Web Archive]`
 
 #### **Yamaha VSS-200** (1988-1991)
+- **Production:** 1988 – 1991 (Discontinued)
+- **MSRP:** ~$180 (Launch)
+- **Notable Fact:** Features 9 DSP effects (Fuzz, Echo, FM modulation) for creative sample manipulation.
 - [**Historical Overview**](https://synthmania.com/yamaha-vss-200/) `[Web Archive]`
 - [**Operating Manual**](https://usa.yamaha.com/files/download/other_assets/2/322302/VSS200E.pdf) `[Direct PDF]`
 
 #### **Yamaha DJX-1** (1998-2000)
+- **Production:** 1998 – 2000 (Discontinued)
+- **MSRP:** $500 (Launch)
+- **Notable Fact:** Features a ribbon controller and assignable knobs tailored for late-90s dance music production.
 - [**Historical Overview**](https://www.vintagesynth.com/yamaha/djx.php) `[Wiki]`
 - [**Service Manual**](https://archive.org/details/yamaha-djx-psr-d1-service-manual) `[Web Archive]`
 
 #### **Yamaha DJX-II** (2000-2002)
+- **Production:** 2000 – 2002 (Discontinued)
+- **MSRP:** ~$450 (Launch)
+- **Notable Fact:** Notable for lacking standard MIDI note transmission; it only transmits system clock and data.
 - [**Historical Overview**](https://synthmania.com/2005/02/22/yamaha-djx-iib/) `[Web Archive]`
 - [**Operating Manual**](https://usa.yamaha.com/files/download/other_assets/2/319592/DJXIIE.pdf) `[Direct PDF]`
 </details>
@@ -253,23 +333,38 @@ Quick-reference for the essential hardware that defined portable chord sequencin
 <summary><b>Korg & Roland (Classic Synthesis & PDA)</b></summary>
 
 #### **Korg Poly-800** (1983-1987)
+- **Production:** 1983 – 1987 (Discontinued)
+- **MSRP:** $795 (Launch)
+- **Notable Fact:** The first programmable poly-synth under $1k; features pegs for use with a guitar strap as a keytar.
 - [**Historical Overview**](https://en.wikipedia.org/wiki/Korg_Poly-800) `[Wiki]`
 - [**Service Manual**](http://www.synfo.nl/servicemanuals/Korg/POLY-800_SERVICE_MANUAL.pdf) `[Direct PDF]`
 - [**Modification (Moog Slayer)**](https://www.synthtopia.com/content/2008/01/29/korg-poly-800-moog-slayer-mod/) `[How-To]`
 
 #### **Korg Poly-800 II** (1986-1988)
+- **Production:** 1986 – 1988 (Discontinued)
+- **MSRP:** ~$850 (Launch)
+- **Notable Fact:** Updated the original with a digital delay and an improved filter, often preferred by modern collectors.
 - [**Historical Overview**](https://www.vintagesynth.com/korg/poly800.php) `[Wiki]`
 - [**Battery Leak Repair Guide**](https://www.youtube.com/watch?v=korg-poly-800-battery-fix) `[Video Guide]`
 
 #### **Roland Alpha Juno-1** (1985-1987)
+- **Production:** 1985 – 1987 (Discontinued)
+- **MSRP:** $895 (Launch)
+- **Notable Fact:** Famous for the "Hoover" sound (Preset 86) which became a foundational element of rave and techno.
 - [**Historical Overview**](https://www.vintagesynth.com/roland/ajuno1.php) `[Wiki]`
 - [**Service Manual**](http://www.synfo.nl/servicemanuals/Roland/JU-1_SERVICE_NOTES.pdf) `[Direct PDF]`
 
 #### **Roland Alpha Juno-2** (1985-1988)
+- **Production:** 1985 – 1988 (Discontinued)
+- **MSRP:** $1,295 (Launch)
+- **Notable Fact:** Adds a 61-note keyboard with velocity and aftertouch, plus a cartridge slot for additional patches.
 - [**Historical Overview**](https://www.vintagesynth.com/roland/ajuno2.php) `[Wiki]`
 - [**Service Manual**](http://www.synfo.nl/servicemanuals/Roland/JU-2_SERVICE_NOTES.pdf) `[Direct PDF]`
 
 #### **Roland PMA-5** (1995-1999)
+- **Production:** 1996 – 2001 (Discontinued)
+- **MSRP:** $595 (Launch)
+- **Notable Fact:** A handheld music workstation with a stylus-driven touchscreen interface, unique for its time.
 - [**Historical Overview**](https://southsideguitars.com.au/products/roland-pma-5) `[Reference]`
 - [**Operating Manual**](https://cdn.roland.com/assets/media/pdf/PMA-5_OM.pdf) `[Direct PDF]`
 </details>
@@ -283,7 +378,13 @@ Quick-reference for the essential hardware that defined portable chord sequencin
 
 ### Vintage "Autochords" & Mechanical Origins
 - [**Hammond Piper Autochord (1970)**](https://archive.org/details/hammond-piper-service-manual) ![status-legacy](https://img.shields.io/badge/status-legacy-yellow) `[Web Archive]`
+  - **Production:** 1970 – 1979 (Discontinued)
+  - **MSRP:** <$1,000 (Launch)
+  - **Notable Fact:** The first instrument to feature "automatic chording," famously endorsed by Duke Ellington.
 - [**Suzuki Tronichord (PC-27)**](./docs/manuals/suzuki/tronichord-pc-27/owners-guide.pdf) ![status-legacy](https://img.shields.io/badge/status-legacy-yellow) `[Direct PDF]`
+  - **Production:** 1980 – 1981 (Discontinued)
+  - **MSRP:** ~$150 (Launch)
+  - **Notable Fact:** The direct precursor to the Omnichord; extremely rare and marketed as the "Portachord."
 
 ---
 
