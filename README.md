@@ -55,13 +55,29 @@ A high-signal, machine-readable knowledge base for chord-driven electronic and a
 ## 📑 Reference (Information-Oriented)
 *Technical specs, schematics, and data sheets.*
 
-### Suzuki Flagship Models
-- **Suzuki OM-108 (2024)** - ![maintained](https://img.shields.io/badge/status-maintained-blue)
-  Current flagship. 108 chords, 5-pin MIDI OUT, PCM engine. #Flagship #PCM
-  - [Official PDF Manual](https://www.suzuki-music.co.jp/manual/om-108_en)
-- **Suzuki OM-27 (1981)** - ![legacy](https://img.shields.io/badge/status-legacy-yellow)
-  The analog original. Based on `AY-5-1317A`. #Analog #Vintage
-  - [Service Manual & Schematics](http://www.omnichord-heaven.com/reference/manuals.php)
+### Suzuki Full Model Genealogy
+Detailed technical specifications and resources for every production model.
+
+- [**Suzuki OM-27** (1981)](http://www.omnichord-heaven.com/reference/manuals.php) - ![legacy](https://img.shields.io/badge/status-legacy-yellow)
+  The analog original. Hybrid CMOS/Analog design using the `AY-5-1317A` chip. #Analog #Vintage #OM27
+- [**Suzuki OM-36 System One** (1984)](http://www.omnichord-heaven.com/reference/manuals.php) - ![legacy](https://img.shields.io/badge/status-legacy-yellow)
+  Introduced digital microprocessor control and expanded rhythm patterns. #Digital-Control #OM36
+- [**Suzuki OM-84 System Two** (1984)](http://www.omnichord-heaven.com/reference/manuals.php) - ![legacy](https://img.shields.io/badge/status-legacy-yellow)
+  Added "Chord Computer" memory and dual-voice mixing capabilities. #Chord-Computer #OM84
+- [**Suzuki OM-100** (1989)](http://www.omnichord-heaven.com/reference/OM100_200M.pdf) - ![legacy](https://img.shields.io/badge/status-legacy-yellow)
+  The transition to PCM (Pulse Code Modulation) wave synthesis. #PCM #OM100
+- [**Suzuki OM-150** (1993)](http://www.omnichord-heaven.com/reference/manuals.php) - ![legacy](https://img.shields.io/badge/status-legacy-yellow)
+  Expanded PCM engine with 19 voices and improved rhythm styles. #PCM #OM150
+- [**Suzuki OM-200M** (1989)](http://www.omnichord-heaven.com/reference/OM100_200M.pdf) - ![legacy](https://img.shields.io/badge/status-legacy-yellow)
+  First model to feature native MIDI OUT for chord and strumplate data. #MIDI #OM200M
+- [**Suzuki OM-250M** (1993)](http://www.omnichord-heaven.com/reference/manuals.php) - ![legacy](https://img.shields.io/badge/status-legacy-yellow)
+  MIDI-capable variant of the OM-150 with full MIDI implementation. #MIDI #OM250M
+- [**Suzuki OM-300** (1996)](http://www.omnichord-heaven.com/reference/manuals.php) - ![legacy](https://img.shields.io/badge/status-legacy-yellow)
+  The final "classic" design featuring 100 voices and advanced MIDI control. #Flagship #MIDI #OM300
+- [**Suzuki QChord QC-1** (1999)](https://www.manualslib.com/manual/167043/Suzuki-Qc-1.html) - ![stable](https://img.shields.io/badge/status-stable-green)
+  Digital successor with QCard expansion slots and modern "janky" MIDI mapping. #QChord #MIDI #QC1
+- [**Suzuki OM-108** (2024)](https://www.suzuki-music.co.jp/manual/om-108_en) - ![maintained](https://img.shields.io/badge/status-maintained-blue)
+  Current flagship flagship with 5-pin MIDI and analog emulation layers. #Modern #OM108
 
 ### Modern Boutique Instruments
 - **HiChord (Pocket Audio)** - ![maintained](https://img.shields.io/badge/status-maintained-blue)
