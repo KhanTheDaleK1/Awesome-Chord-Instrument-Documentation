@@ -1,0 +1,8 @@
+310cca188c74cc3b8940c16eb96e77a9d066de4b8da8aa4720bc77123a979884  ./manuals/suzuki/om-108/owners-guide.pdf
+21ca4b146885a0e84055b60deab848e24413032a242ae8f40df68e2c39b644b7  ./manuals/suzuki/om-150-250m/owners-guide.pdf
+c47874d977c5aac18eeb79cac3088ffe78b5ba30a27ac2738a01e588acf0bb67  ./manuals/suzuki/om-84/owners-guide.pdf
+d73abc47996b8d4f2b069bfa32890f39691650b2b30b713aa1df7333471e68e5  ./manuals/suzuki/om-36/owners-guide.pdf
+73940e7d42ae2c741756b4386708578b846bbc593addae736b6c241a5701aa35  ./manuals/suzuki/qchord/owners-guide.pdf
+8d84ea3656ba29babb66fd70188f219846b0f1d2d82df31f9513bf480e099536  ./manuals/suzuki/om-27/owners-guide.pdf
+b47ec71cc98adc05c0decf3590df0ea238edeaad251a306e43bc309a5a38224e  ./manuals/suzuki/om-100-200m/owners-guide.pdf
+8a96fb36fd6cc93d35670bebd12e328318860f5386ea3a5ed45e432afd70d9ed  ./manuals/suzuki/tronichord-pc-27/owners-guide.pdf

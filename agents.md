@@ -36,4 +36,7 @@ npx awesome-lint
 
 # Execute link integrity check (Recommended: Weekly)
 npm run link-check
+
+# Verify local PDF integrity via SHA-256 manifest
+cd docs && shasum -a 256 -c checksums.txt
 ```
