@@ -43,6 +43,10 @@ A high-signal, machine-readable knowledge base for chord-driven electronic and a
 
 - [**Mapping QChord Pitch Bend to VSTs**](https://www.kvraudio.com/forum/viewtopic.php?t=192282) - ![stable](https://img.shields.io/badge/status-stable-green)
   Forum guide on using Piz MIDI Plugins to translate aggressive strum pitch bends into standard MIDI notes. #Software-Guide #DAW #Mapping
+- [**Using Q-Chord MIDI in a DAW**](https://www.reddit.com/r/Omnichord/comments/174m7d5/using_qchord_midi_in_a_daw_my_way/) - ![stable](https://img.shields.io/badge/status-stable-green)
+  Detailed routing guide for isolating strumplate channels (14, 15, 16) and applying the Piz MIDI translation VST. #Software-Guide #DAW #Routing
+- [**Piz MIDI Utilities (midiPitchBendToNotes)**](https://www.paulcecchettimusic.com/piz-midi-utilities-archived-download-links/) - ![maintained](https://img.shields.io/badge/status-maintained-blue)
+  Archived download links for the VST required to translate QChord strumplate pitch bends into standard MIDI notes. #Software-Download #VST #Piz-MIDI
 - [**Correcting Power Polarity (OM-100)**](https://www.keithrobertmurray.com/articles/omnichord-om-100-ps.html) - ![critical](https://img.shields.io/badge/status-critical-red)
   Step-by-step on replacing the 2.2-ohm current limiting resistor after a polarity mismatch. #Repair-Guide #Hardware
 - [**Le Strum Open Source Repository**](https://github.com/hotchk155/Voici-Le-Strum) - ![open-source](https://img.shields.io/badge/status-open--source-brightgreen)
