@@ -88,7 +88,7 @@
 <summary><b>Suzuki OM-27 (1981)</b></summary>
 
 - **Production:** 1981 – 1984 (Discontinued)
-- **MSRP:** $200 – $300 (Launch)
+- **MSRP:** $200 – $300 (Launch) | **Current Market:** <!-- PRICE_OM-27_START -->TBD<!-- PRICE_OM-27_END -->
 - **Notable Fact:** The first true Omnichord; Suzuki produced 40,000 units in the first year alone.
 
 - [**User Guide (Local PDF)**](./docs/manuals/suzuki/om-27/owners-guide.pdf) `[Direct PDF]`
@@ -114,7 +114,7 @@
 <summary><b>Suzuki OM-84 System Two (1984)</b></summary>
 
 - **Production:** 1984 – 1989 (Discontinued)
-- **MSRP:** £99 (Launch)
+- **MSRP:** £99 (Launch) | **Current Market:** <!-- PRICE_OM-84_START -->TBD<!-- PRICE_OM-84_END -->
 - **Notable Fact:** "System Two" introduced dual strumplate voices and the first integrated chord memory sequencer.
 
 - [**User Guide (Local PDF)**](./docs/manuals/suzuki/om-84/owners-guide.pdf) `[Direct PDF]`
@@ -162,7 +162,7 @@
 <summary><b>Suzuki QChord QC-1 (1999)</b></summary>
 
 - **Production:** 1999 – 2020 (Discontinued)
-- **MSRP:** $250 (Launch)
+- **MSRP:** $250 (Launch) | **Current Market:** <!-- PRICE_QCHORD_START -->TBD<!-- PRICE_QCHORD_END -->
 - **Notable Fact:** A digital reimagining with 100 voices and a QCard expansion slot for proprietary song cartridges.
 
 - [**User Guide (Local PDF)**](./docs/manuals/suzuki/qchord/owners-guide.pdf) `[Direct PDF]`
@@ -334,7 +334,7 @@ Quick-reference for the essential hardware that defined portable chord sequencin
 
 #### **Korg Poly-800** (1983-1987)
 - **Production:** 1983 – 1987 (Discontinued)
-- **MSRP:** $795 (Launch)
+- **MSRP:** $795 (Launch) | **Current Market:** <!-- PRICE_POLY800_START -->TBD<!-- PRICE_POLY800_END -->
 - **Notable Fact:** The first programmable poly-synth under $1k; features pegs for use with a guitar strap as a keytar.
 - [**Historical Overview**](https://en.wikipedia.org/wiki/Korg_Poly-800) `[Wiki]`
 - [**Service Manual**](http://www.synfo.nl/servicemanuals/Korg/POLY-800_SERVICE_MANUAL.pdf) `[Direct PDF]`
