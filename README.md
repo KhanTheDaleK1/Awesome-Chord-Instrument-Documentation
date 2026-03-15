@@ -136,6 +136,83 @@ A high-signal, machine-readable knowledge base for chord-driven electronic and a
 - [**Official Manual (Web)**](https://www.suzuki-music.co.jp/manual/om-108_en) `[Direct PDF]`
 </details>
 
+### Iconic Chord Keyboards & Pocket Stations
+Quick-reference for the essential hardware that defined portable chord sequencing and sampling.
+
+| Product | Years | Type | Key Chord Feature |
+| :--- | :--- | :--- | :--- |
+| **Casio VL-1** | 1979-1984 | Calculator Synth | One-Key Sequenced Chords |
+| **Casio PT-30/50** | 1983-1987 | Compact Keyboard | Dedicated Accordion-style Chord Buttons |
+| **Korg Poly-800** | 1983-1988 | Polyphonic Synth | Dedicated "Chord Memory" Button |
+| **Casio SK-Series** | 1985-1992 | Lo-Fi Sampler | Polyphonic Sample-to-Chord Mapping |
+| **Roland Alpha Juno**| 1985-1988 | Analog Poly | House-style "One-Finger" Chord Memory |
+| **Yamaha VSS-Series**| 1987-1991 | Vocal Sampler | Harmonic Texture/Modulated Pads |
+| **Yamaha QY-Series** | 1990-2014 | Walkstation | 8-Track Pocket Chord Sequencer |
+| **Roland PMA-5** | 1995-1999 | Music PDA | Stylus-driven Touch Chord Interface |
+| **Yamaha DJX-Series**| 1998-2002 | Dance Keyboard | Rhythmic Chord Manipulation / Loops |
+
+<details>
+<summary><b>Yamaha QY & QR series (Pocket Walkstations)</b></summary>
+
+- [**Yamaha QY10** (1990-1995)](https://en.wikipedia.org/wiki/Yamaha_QY10) ![status-legacy](https://img.shields.io/badge/status-legacy-yellow) `[Wiki]`
+  The first pocket "Walkstation" with an 8-track sequencer and chord patterns.
+- [**Yamaha QY20** (1992-1997)](https://synthmania.com/yamaha-qy20/) ![status-legacy](https://img.shields.io/badge/status-legacy-yellow) `[Web Archive]`
+  Featured a larger graphic display and expanded General MIDI sound set.
+- [**Yamaha QR10** (1993-1996)](https://en.wikipedia.org/wiki/Yamaha_QY10) ![status-legacy](https://img.shields.io/badge/status-legacy-yellow) `[Wiki]`
+  Handheld unit with chord buttons and a strum-like interface for performance.
+- [**Yamaha QY70** (1997-2001)](https://synthpedia.net/yamaha/qy70/) ![status-legacy](https://img.shields.io/badge/status-legacy-yellow) `[Reference]`
+  A professional-grade XG sound engine in a handheld chord-sequencing box.
+- [**Yamaha QY100** (1998-2014)](https://synthpedia.net/yamaha/qy100/) ![status-legacy](https://img.shields.io/badge/status-legacy-yellow) `[Reference]`
+  Final evolution of the QY line; added guitar/mic inputs and SmartMedia storage.
+</details>
+
+<details>
+<summary><b>Casio SK & PT series (Sampling & Portable)</b></summary>
+
+- [**Casio SK-1** (1985-1988)](https://web.casio.com/emi/40th/history/sk-1.html) ![status-legacy](https://img.shields.io/badge/status-legacy-yellow) `[Official History]`
+  Low-cost sampler that could map any recorded sound to polyphonic chords.
+- [**Casio SK-5** (1987-1990)](https://www.perfectcircuit.com/signal/casio-sk1-history) ![status-legacy](https://img.shields.io/badge/status-legacy-yellow) `[Article]`
+  Added rhythm pads for triggering samples as rhythmic chord stabs.
+- [**Casio SK-8** (1987-1991)](https://www.casio.com/jp/electronic-musical-instruments/) ![status-legacy](https://img.shields.io/badge/status-legacy-yellow) `[Web View]`
+  Educational sampling model featuring ROM-pack slots for song learning.
+- [**Casio SK-200** (1987-1992)](https://www.vintagesynth.com/casio/sk200.php) ![status-legacy](https://img.shields.io/badge/status-legacy-yellow) `[Wiki]`
+  A mid-sized sampling keyboard with improved rhythm patterns and auto-chords.
+- [**Casio PT-30** (1983-1986)](https://www.muzines.co.uk/articles/casio-pt-30/11981) ![status-legacy](https://img.shields.io/badge/status-legacy-yellow) `[Article]`
+  Compact keyboard with a dedicated "chord button" section similar to an accordion.
+- [**Casio PT-50** (1983-1987)](https://www.casio.com/jp/electronic-musical-instruments/) ![status-legacy](https://img.shields.io/badge/status-legacy-yellow) `[Web View]`
+  Advanced PT model with an LCD screen for visual chord and melody sequencing.
+- [**Casio VL-1** (1979-1984)](https://en.wikipedia.org/wiki/Casio_VL-1) ![status-legacy](https://img.shields.io/badge/status-legacy-yellow) `[Wiki]`
+  The iconic calculator-synth that used simple button-sequencing for chords.
+</details>
+
+<details>
+<summary><b>Yamaha VSS & DJX series (Performance & Dance)</b></summary>
+
+- [**Yamaha VSS-30** (1987-1989)](https://www.vintagesynth.com/yamaha/vss30.php) ![status-legacy](https://img.shields.io/badge/status-legacy-yellow) `[Wiki]`
+  Cult classic vocal sampler that turned single sounds into modulated chord pads.
+- [**Yamaha VSS-200** (1988-1991)](https://synthmania.com/yamaha-vss-200/) ![status-legacy](https://img.shields.io/badge/status-legacy-yellow) `[Web Archive]`
+  Combined voice sampling with FM synthesis for complex harmonic textures.
+- [**Yamaha DJX-1** (1998-2000)](https://www.vintagesynth.com/yamaha/djx.php) ![status-legacy](https://img.shields.io/badge/status-legacy-yellow) `[Wiki]`
+  A "dance" keyboard with a ribbon controller for rhythmic chord manipulation.
+- [**Yamaha DJX-II** (2000-2002)](https://synthmania.com/2005/02/22/yamaha-djx-iib/) ![status-legacy](https://img.shields.io/badge/status-legacy-yellow) `[Web Archive]`
+  Shifted to a loop-based interface for live chord and pattern "remixing."
+</details>
+
+<details>
+<summary><b>Korg & Roland (Classic Synthesis & PDA)</b></summary>
+
+- [**Korg Poly-800** (1983-1987)](https://en.wikipedia.org/wiki/Korg_Poly-800) ![status-legacy](https://img.shields.io/badge/status-legacy-yellow) `[Wiki]`
+  The first affordable poly-synth with a dedicated "Chord Memory" button.
+- [**Korg Poly-800 II** (1986-1988)](https://www.vintagesynth.com/korg/poly800.php) ![status-legacy](https://img.shields.io/badge/status-legacy-yellow) `[Wiki]`
+  Updated version with digital delay and enhanced MIDI SysEx support.
+- [**Roland Alpha Juno-1** (1985-1987)](https://www.vintagesynth.com/roland/ajuno1.php) ![status-legacy](https://img.shields.io/badge/status-legacy-yellow) `[Wiki]`
+  Analog synth famous for "one-finger" chord memory stabs in house music.
+- [**Roland Alpha Juno-2** (1985-1988)](https://www.vintagesynth.com/roland/ajuno2.php) ![status-legacy](https://img.shields.io/badge/status-legacy-yellow) `[Wiki]`
+  Expanded version of Juno-1 with velocity sensitivity and aftertouch.
+- [**Roland PMA-5** (1995-1999)](https://southsideguitars.com.au/products/roland-pma-5) ![status-legacy](https://img.shields.io/badge/status-legacy-yellow) `[Reference]`
+  A stylus-driven "Music PDA" for touch-based chord and track arrangement.
+</details>
+
 ### Modern Boutique Instruments
 - [**Pocket Audio HiChord**](https://hichord.shop/) ![status-maintained](https://img.shields.io/badge/status-maintained-blue) `[Hardware]`
 - [**Minichord (Benjamin Poilvé)**](https://minichord.com/) ![status-maintained](https://img.shields.io/badge/status-maintained-blue) `[Hardware]`
