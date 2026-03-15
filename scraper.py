@@ -7,20 +7,25 @@ import os
 
 # 1. Map your unique placeholder tags to specific eBay queries
 INSTRUMENTS = {
-    "OM-27": "Suzuki Omnichord OM-27 -adapter -overlay",
-    "OM-84": "Suzuki Omnichord OM-84 -adapter",
-    "QCHORD": "Suzuki QChord QC-1",
-    "POLY800": "Korg Poly-800 synthesizer"
+    "OM-27": "Suzuki Omnichord OM-27",
+    "OM-84": "Suzuki Omnichord OM-84",
+    "QCHORD": "Suzuki QChord",
+    "POLY800": "Korg Poly-800"
 }
 
 def get_ebay_sold_listings(query):
     url = f"https://www.ebay.com/sch/i.html?_nkw={query.replace(' ', '+')}&LH_Sold=1&LH_Complete=1&_ipg=60"
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Connection": "keep-alive",
+        "Upgrade-Insecure-Requests": "1",
     }
     
     try:
-        response = requests.get(url, headers=headers, timeout=10)
+        response = requests.get(url, headers=headers, timeout=30)
         response.raise_for_status()
     except requests.exceptions.RequestException:
         return []
