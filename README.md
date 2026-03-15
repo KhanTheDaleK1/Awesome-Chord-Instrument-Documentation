@@ -275,9 +275,17 @@ Quick-reference for the essential hardware that defined portable chord sequencin
 ---
 
 ## 🙏 Special Thanks
-*Acknowleging the pioneers of chord instrument preservation.*
+*Acknowledging the pioneers of chord instrument preservation.*
 
-- [**Omnichord Heaven**](https://www.omnichord-heaven.com/) - The ultimate and official Suzuki Omnichord and Qchord resource library. This repository owes a massive debt to their decades of archiving, repair documentation, and community building.
+- [**Omnichord Heaven**](https://www.omnichord-heaven.com/) - The ultimate Suzuki Omnichord and Qchord resource library. This repository owes a massive debt to their decades of archiving, repair documentation, and community building.
+- [**Yamaha Corporation**](https://usa.yamaha.com/) - For providing exhaustive and accessible PDF archives of their heritage products (QY, VSS, and DJX series).
+- [**Internet Archive (Archive.org)**](https://archive.org/) - For preserving critical, out-of-print service manuals and technical documentation for legacy hardware.
+- [**Vintage Synth Explorer**](https://www.vintagesynth.com/) - For maintaining the premier historical database and specifications for classic synthesizers and samplers.
+- [**Erich Izdepski**](https://erichizdepski.wordpress.com/) - For providing high-fidelity hardware deep-dives and technical repair logs that enable modern preservation.
+- [**Synfo.nl**](http://www.synfo.nl/) - For hosting essential technical service notes and schematics for Roland and Korg hardware.
+- [**Synthmania**](https://synthmania.com/) - For their high-quality technical overviews and audio references for vintage gear.
+- [**Circuit Bending Wiki**](https://circuitbending.miraheze.org/) - For detailed community-driven technical schematics and modification data.
+- [**Scribd**](https://www.scribd.com/) - For serving as a critical mirror host for redundant technical documentation.
 
 ---
 
