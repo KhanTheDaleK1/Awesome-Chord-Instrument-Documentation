@@ -116,7 +116,7 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 <summary><b>Suzuki OM-27 (1981)</b></summary>
 
 - **Production:** 1981 – 1984 (Discontinued)
-- **MSRP:** $200 – $300 (Launch) | **Current Market:** <!-- PRICE_OM-27_START -->$537.50<!-- PRICE_OM-27_END -->
+- **MSRP:** $200 – $300 (Launch) | $718.99 - $1,078.49 (Inflation) | **Current Market:** <!-- PRICE_OM-27_START -->$537.50<!-- PRICE_OM-27_END -->
 - **Notable Fact:** The first true Omnichord; Suzuki produced 40,000 units in the first year alone.
 
 - [User Guide (Local PDF)](./docs/manuals/suzuki/om-27/owners-guide.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Local PDF owner's guide for the Suzuki OM-27. #DirectPDF #Reference
@@ -137,7 +137,7 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 <summary><b>Suzuki OM-36 System One (1984)</b></summary>
 
 - **Production:** 1984 – 1989 (Discontinued)
-- **MSRP:** £99 (Launch) | **Current Market:** <!-- PRICE_OM-36_START -->$495.00<!-- PRICE_OM-36_END -->
+- **MSRP:** $99 (Launch) | $311.37 (Inflation) | **Current Market:** <!-- PRICE_OM-36_START -->$495.00<!-- PRICE_OM-36_END -->
 - **Notable Fact:** Known as "System One," it updated the original design with 36 chords (later expandable to 84).
 
 - [User Guide (Local PDF)](./docs/manuals/suzuki/om-36/owners-guide.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Local PDF owner's guide for the Suzuki OM-36. #DirectPDF #Reference
@@ -149,7 +149,7 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 <summary><b>Suzuki OM-84 System Two (1984)</b></summary>
 
 - **Production:** 1984 – 1989 (Discontinued)
-- **MSRP:** £99 (Launch) | **Current Market:** <!-- PRICE_OM-84_START -->$637.50<!-- PRICE_OM-84_END -->
+- **MSRP:** $99 (Launch) | $311.37 (Inflation) | **Current Market:** <!-- PRICE_OM-84_START -->$637.50<!-- PRICE_OM-84_END -->
 - **Notable Fact:** "System Two" introduced dual strumplate voices and the first integrated chord memory sequencer.
 
 - [User Guide (Local PDF)](./docs/manuals/suzuki/om-84/owners-guide.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Local PDF owner's guide for the Suzuki OM-84. #DirectPDF #Reference
@@ -167,7 +167,7 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 <summary><b>Suzuki OM-100 / OM-200M (1989)</b></summary>
 
 - **Production:** 1989 – 1993 (Discontinued)
-- **MSRP:** $229 (OM-100) / $299 (OM-200M) | **Current Market:** <!-- PRICE_OM-100_START -->$555.00<!-- PRICE_OM-100_END --> / <!-- PRICE_OM-200M_START -->$597.50<!-- PRICE_OM-200M_END -->
+- **MSRP:** $229 (OM-100) / $299 (OM-200M) | $603.49 / $787.97 (Inflation) | **Current Market:** <!-- PRICE_OM-100_START -->$555.00<!-- PRICE_OM-100_END --> / <!-- PRICE_OM-200M_START -->$597.50<!-- PRICE_OM-200M_END -->
 - **Notable Fact:** The OM-200M was the first model to feature native MIDI Out, enabling control of external synths.
 
 - [User Guide (Local PDF)](./docs/manuals/suzuki/om-100-200m/owners-guide.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Local PDF owner's guide for the Suzuki OM-100 and 200M. #DirectPDF #Reference
@@ -184,7 +184,7 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 <summary><b>Suzuki OM-150 / OM-250M (1993)</b></summary>
 
 - **Production:** 1993 – 1996 (Discontinued)
-- **MSRP:** ~$250 - $300 | **Current Market:** <!-- PRICE_OM-150_START -->$342.50<!-- PRICE_OM-150_END --> / <!-- PRICE_OM-250M_START -->$580.00<!-- PRICE_OM-250M_END -->
+- **MSRP:** ~$250 - $300 | $565.37 - $678.44 (Inflation) | **Current Market:** <!-- PRICE_OM-150_START -->$342.50<!-- PRICE_OM-150_END --> / <!-- PRICE_OM-250M_START -->$580.00<!-- PRICE_OM-250M_END -->
 - **Notable Fact:** These models refined the PCM sounds and ergonomics before the transition to the OM-300.
 
 - [User Guide (Local PDF)](./docs/manuals/suzuki/om-150-250m/owners-guide.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Local PDF owner's guide for the Suzuki OM-150 and 250M. #DirectPDF #Reference
@@ -200,7 +200,7 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 <summary><b>Suzuki OM-300 (1996)</b></summary>
 
 - **Production:** 1996 (Discontinued 1996)
-- **MSRP:** $300+ (Launch) | **Current Market:** <!-- PRICE_OM-300_START -->$660.00<!-- PRICE_OM-300_END -->
+- **MSRP:** $300+ (Launch) | $624.82 (Inflation) | **Current Market:** <!-- PRICE_OM-300_START -->$660.00<!-- PRICE_OM-300_END -->
 - **Notable Fact:** Extremely rare final original model; its drum preset is the foundation of the Gorillaz hit "Clint Eastwood."
 
 - [User Guide (Primary)](https://device.report/Omnichord/OM300) ![status-stable](https://img.shields.io/badge/status-stable-green) - Primary web-viewable owner's guide for the Suzuki OM-300. #WebView #Reference
@@ -214,7 +214,7 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 <summary><b>Suzuki QChord QC-1 (1999)</b></summary>
 
 - **Production:** 1999 – 2020 (Discontinued)
-- **MSRP:** $250 (Launch) | **Current Market:** <!-- PRICE_QCHORD_START -->$580.00<!-- PRICE_QCHORD_END -->
+- **MSRP:** $250 (Launch) | $490.37 (Inflation) | **Current Market:** <!-- PRICE_QCHORD_START -->$580.00<!-- PRICE_QCHORD_END -->
 - **Notable Fact:** A digital reimagining with 100 voices and a QCard expansion slot for proprietary song cartridges.
 
 - [User Guide (Local PDF)](./docs/manuals/suzuki/qchord/owners-guide.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Local PDF owner's guide for the Suzuki QChord QC-1. #DirectPDF #Reference
@@ -231,7 +231,7 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 <summary><b>Suzuki OM-108 (2024)</b></summary>
 
 - **Production:** 2024 – Present (Active)
-- **MSRP:** $800+ (Launch) | **Current Market:** <!-- PRICE_OM-108_START -->$645.00<!-- PRICE_OM-108_END -->
+- **MSRP:** $800+ (Launch) | $832.10 (Inflation) | **Current Market:** <!-- PRICE_OM-108_START -->$645.00<!-- PRICE_OM-108_END -->
 - **Notable Fact:** A 70th-anniversary tribute that returns to analog-voiced synthesis while expanding to 108 chords.
 
 - [Official Manual (Local PDF)](./docs/manuals/suzuki/om-108/owners-guide.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Local PDF owner's manual for the Suzuki OM-108. #DirectPDF #Reference
@@ -261,7 +261,7 @@ Quick-reference for the essential hardware that defined portable chord sequencin
 
 #### **Yamaha QY10** (1990-1995)
 - **Production:** 1990 – 1995 (Discontinued)
-- **MSRP:** $399 (Launch) | **Current Market:** <!-- PRICE_QY10_START -->$227.50<!-- PRICE_QY10_END -->
+- **MSRP:** $399 (Launch) | $997.60 (Inflation) | **Current Market:** <!-- PRICE_QY10_START -->$227.50<!-- PRICE_QY10_END -->
 - **Notable Fact:** The first "Walkstation," designed to be roughly the size of a VHS tape for mobile composing.
 - [Historical Overview](https://en.wikipedia.org/wiki/Yamaha_QY10) ![status-stable](https://img.shields.io/badge/status-stable-green) - Wikipedia overview of the Yamaha QY10's history and impact. #Wiki #Reference
 - [Operating Manual](https://usa.yamaha.com/files/download/other_assets/5/317585/QY10E.PDF) ![status-stable](https://img.shields.io/badge/status-stable-green) - Primary web-based operating manual for the Yamaha QY10. #DirectPDF #Reference
@@ -269,7 +269,7 @@ Quick-reference for the essential hardware that defined portable chord sequencin
 
 #### **Yamaha QY20** (1992-1997)
 - **Production:** 1992 – 1997 (Discontinued)
-- **MSRP:** ~$450 (Launch) | **Current Market:** <!-- PRICE_QY20_START -->$227.50<!-- PRICE_QY20_END -->
+- **MSRP:** ~$450 (Launch) | $1,048.12 (Inflation) | **Current Market:** <!-- PRICE_QY20_START -->$227.50<!-- PRICE_QY20_END -->
 - **Notable Fact:** Introduced a much larger graphic display and a 2-octave micro-keyboard for easier data entry.
 - [Historical Overview](https://synthmania.com/yamaha-qy20/) ![status-stable](https://img.shields.io/badge/status-stable-green) - Archive resource detailing the synthesis and history of the QY20. #WebArchive #Reference
 - [Operating Manual](https://usa.yamaha.com/files/download/other_assets/7/318357/QY20E.PDF) ![status-stable](https://img.shields.io/badge/status-stable-green) - Primary web-based operating manual for the Yamaha QY20. #DirectPDF #Reference
@@ -277,21 +277,21 @@ Quick-reference for the essential hardware that defined portable chord sequencin
 
 #### **Yamaha QR10** (1993-1996)
 - **Production:** 1993 – 1996 (Discontinued)
-- **MSRP:** ~$350 (Launch) | **Current Market:** <!-- PRICE_QR10_START -->$227.50<!-- PRICE_QR10_END -->
+- **MSRP:** ~$350 (Launch) | $791.51 (Inflation) | **Current Market:** <!-- PRICE_QR10_START -->$227.50<!-- PRICE_QR10_END -->
 - **Notable Fact:** Marketed as a "Music Accompaniment Player" with a built-in 8-bit sampler for capturing quick ideas.
 - [Historical Overview](https://en.wikipedia.org/wiki/Yamaha_QY10) ![status-stable](https://img.shields.io/badge/status-stable-green) - Combined Wikipedia history for Yamaha's early portable workstations. #Wiki #Reference
 - [Operating Manual](https://usa.yamaha.com/files/download/other_assets/4/317584/QR10E.PDF) ![status-stable](https://img.shields.io/badge/status-stable-green) - Primary web-based operating manual for the Yamaha QR10. #DirectPDF #Reference
 
 #### **Yamaha QY70** (1997-2001)
 - **Production:** 1997 – 2001 (Discontinued)
-- **MSRP:** ~$599 (Launch) | **Current Market:** <!-- PRICE_QY70_START -->$172.50<!-- PRICE_QY70_END -->
+- **MSRP:** ~$599 (Launch) | $1,219.58 (Inflation) | **Current Market:** <!-- PRICE_QY70_START -->$172.50<!-- PRICE_QY70_END -->
 - **Notable Fact:** The first portable QY with full Yamaha XG support, featuring over 500 high-quality voices.
 - [Historical Overview](https://synthpedia.net/yamaha/qy70/) ![status-stable](https://img.shields.io/badge/status-stable-green) - Technical specifications and historical context for the Yamaha QY70. #Reference #Reference
 - [Service Manual](https://archive.org/details/yamaha-qy70-service-manual) ![status-stable](https://img.shields.io/badge/status-stable-green) - Web archive repository for the Yamaha QY70 service manual. #WebArchive #Reference
 
 #### **Yamaha QY100** (1998-2014)
 - **Production:** 2001 – 2014 (Discontinued)
-- **MSRP:** ~$649 (Launch) | **Current Market:** <!-- PRICE_QY100_START -->$195.00<!-- PRICE_QY100_END -->
+- **MSRP:** ~$649 (Launch) | $1,301.11 (Inflation) | **Current Market:** <!-- PRICE_QY100_START -->$195.00<!-- PRICE_QY100_END -->
 - **Notable Fact:** The peak of the series; added a guitar/mic input with amp simulation and SmartMedia storage.
 - [Historical Overview](https://synthpedia.net/yamaha/qy100/) ![status-stable](https://img.shields.io/badge/status-stable-green) - Technical specifications and historical context for the Yamaha QY100. #Reference #Reference
 - [Operating Manual](https://usa.yamaha.com/files/download/other_assets/3/319683/QY100E.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Primary web-based operating manual for the Yamaha QY100. #DirectPDF #Reference
@@ -305,7 +305,7 @@ Quick-reference for the essential hardware that defined portable chord sequencin
 
 #### **Casio SK-1** (1985-1988)
 - **Production:** 1985 – 1988 (Discontinued)
-- **MSRP:** $139 (Launch) | **Current Market:** <!-- PRICE_SK1_START -->$170.00<!-- PRICE_SK1_END -->
+- **MSRP:** $139 (Launch) | $422.14 (Inflation) | **Current Market:** <!-- PRICE_SK1_START -->$170.00<!-- PRICE_SK1_END -->
 - **Notable Fact:** Democratized sampling technology; its 8-bit lo-fi sound became a staple of early hip-hop and indie.
 - [Historical Overview](https://web.casio.com/emi/40th/history/sk-1.html) ![status-stable](https://img.shields.io/badge/status-stable-green) - Official Casio 40th-anniversary history of the landmark SK-1 sampler. #Official #Reference
 - [Service Manual](https://warningwillrobinson.com.au/manuals/Casio%20SK-1%20Service%20manual.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Direct technical service manual for repairing the Casio SK-1. #DirectPDF #Reference
@@ -313,40 +313,40 @@ Quick-reference for the essential hardware that defined portable chord sequencin
 
 #### **Casio SK-5** (1987-1990)
 - **Production:** 1987 – 1990 (Discontinued)
-- **MSRP:** ~$100 (Launch) | **Current Market:** <!-- PRICE_SK5_START -->$180.00<!-- PRICE_SK5_END -->
+- **MSRP:** ~$100 (Launch) | $287.66 (Inflation) | **Current Market:** <!-- PRICE_SK5_START -->$180.00<!-- PRICE_SK5_END -->
 - **Notable Fact:** Added four dedicated sample pads for "preset" samples like a barking dog and surf noises.
 - [Historical Overview](https://www.perfectcircuit.com/signal/casio-sk1-history) ![status-stable](https://img.shields.io/badge/status-stable-green) - Detailed article exploring the cultural and technical history of Casio samplers. #Article #Reference
 - [Service Manual](https://archive.org/details/casio-sk-5-service-manual) ![status-stable](https://img.shields.io/badge/status-stable-green) - Web archive repository for the Casio SK-5 technical service manual. #WebArchive #Reference
 
 #### **Casio SK-8** (1987-1991)
 - **Production:** 1987 – 1991 (Discontinued)
-- **MSRP:** ~$150 (Launch) | **Current Market:** <!-- PRICE_SK8_START -->$175.00<!-- PRICE_SK8_END -->
+- **MSRP:** ~$150 (Launch) | $431.49 (Inflation) | **Current Market:** <!-- PRICE_SK8_START -->$175.00<!-- PRICE_SK8_END -->
 - **Notable Fact:** A "Melody Guide" variant with light-up keys and a ROM pack slot for song expansion.
 - [Historical Overview](https://www.casio.com/jp/electronic-musical-instruments/) ![status-stable](https://img.shields.io/badge/status-stable-green) - Official Casio corporate portal for historical instrument data. #Official #Reference
 - [Operating Manual](https://www.manualslib.com/manual/1218084/Casio-Sk-8.html) ![status-stable](https://img.shields.io/badge/status-stable-green) - Web-viewable version of the original Casio SK-8 operating manual. #WebView #Reference
 
 #### **Casio SK-200** (1987-1992)
 - **Production:** 1987 – 1992 (Discontinued)
-- **MSRP:** ~$200 (Launch) | **Current Market:** <!-- PRICE_SK200_START -->$142.50<!-- PRICE_SK200_END -->
+- **MSRP:** ~$200 (Launch) | $575.32 (Inflation) | **Current Market:** <!-- PRICE_SK200_START -->$142.50<!-- PRICE_SK200_END -->
 - **Notable Fact:** A more professional SK variant with larger keys and improved synthesis features.
 - [Historical Overview](https://www.vintagesynth.com/casio/sk200.php) ![status-stable](https://img.shields.io/badge/status-stable-green) - Community wiki providing technical specs for the advanced SK-200 sampler. #Wiki #Reference
 
 #### **Casio PT-30** (1983-1986)
 - **Production:** 1983 – 1986 (Discontinued)
-- **MSRP:** ~$120 (Launch) | **Current Market:** <!-- PRICE_PT30_START -->TBD<!-- PRICE_PT30_END -->
+- **MSRP:** ~$120 (Launch) | $393.71 (Inflation) | **Current Market:** <!-- PRICE_PT30_START -->TBD<!-- PRICE_PT30_END -->
 - **Notable Fact:** Features a "Harmony Arranger" that automatically creates chord accompaniments for melodies.
 - [Historical Overview](https://www.muzines.co.uk/articles/casio-pt-30/11981) ![status-stable](https://img.shields.io/badge/status-stable-green) - Vintage magazine review exploring the early PT-series chord features. #Article #Reference
 - [Service Manual](https://archive.org/details/casio-pt-30-service-manual) ![status-stable](https://img.shields.io/badge/status-stable-green) - Web archive repository for the Casio PT-30 technical service manual. #WebArchive #Reference
 
 #### **Casio PT-50** (1983-1987)
 - **Production:** 1983 – 1987 (Discontinued)
-- **MSRP:** ~$150 (Launch) | **Current Market:** <!-- PRICE_PT50_START -->TBD<!-- PRICE_PT50_END -->
+- **MSRP:** ~$150 (Launch) | $492.14 (Inflation) | **Current Market:** <!-- PRICE_PT50_START -->TBD<!-- PRICE_PT50_END -->
 - **Notable Fact:** Famously appeared as a background prop in the 1984 movie *Gremlins*.
 - [Historical Overview](https://www.casio.com/jp/electronic-musical-instruments/) ![status-stable](https://img.shields.io/badge/status-stable-green) - Official Casio corporate portal for historical instrument data. #Official #Reference
 
 #### **Casio VL-1** (1979-1984)
 - **Production:** 1979 – 1984 (Discontinued)
-- **MSRP:** $69.95 (Launch) | **Current Market:** <!-- PRICE_VL1_START -->$95.00<!-- PRICE_VL1_END -->
+- **MSRP:** $69.95 (Launch) | $314.85 (Inflation) | **Current Market:** <!-- PRICE_VL1_START -->$95.00<!-- PRICE_VL1_END -->
 - **Notable Fact:** The first commercial digital synth; features a calculator and the "Da Da Da" rhythm preset.
 - [Historical Overview](https://en.wikipedia.org/wiki/Casio_VL-1) ![status-stable](https://img.shields.io/badge/status-stable-green) - Wikipedia history of the iconic calculator-based VL-1 synthesizer. #Wiki #Reference
 - [Service Manual](https://archive.org/details/casio-vl-1-service-manual) ![status-stable](https://img.shields.io/badge/status-stable-green) - Web archive repository for the Casio VL-1 technical service manual. #WebArchive #Reference
@@ -357,28 +357,28 @@ Quick-reference for the essential hardware that defined portable chord sequencin
 
 #### **Yamaha VSS-30** (1987-1989)
 - **Production:** 1987 – 1989 (Discontinued)
-- **MSRP:** ~$100 (Launch) | **Current Market:** <!-- PRICE_VSS30_START -->$247.50<!-- PRICE_VSS30_END -->
+- **MSRP:** ~$100 (Launch) | $287.66 (Inflation) | **Current Market:** <!-- PRICE_VSS30_START -->$247.50<!-- PRICE_VSS30_END -->
 - **Notable Fact:** A cult-classic 8-bit sampler used extensively by Sigur Rós for its unique "U-Turn" loop mode.
 - [Historical Overview](https://www.vintagesynth.com/yamaha/vss30.php) ![status-stable](https://img.shields.io/badge/status-stable-green) - Community wiki entry for the highly sought-after VSS-30 pocket sampler. #Wiki #Reference
 - [Service Manual](https://archive.org/details/yamaha-vss-30-service-manual) ![status-stable](https://img.shields.io/badge/status-stable-green) - Web archive repository for the Yamaha VSS-30 technical service manual. #WebArchive #Reference
 
 #### **Yamaha VSS-200** (1988-1991)
 - **Production:** 1988 – 1991 (Discontinued)
-- **MSRP:** ~$180 (Launch) | **Current Market:** <!-- PRICE_VSS200_START -->$247.50<!-- PRICE_VSS200_END -->
+- **MSRP:** ~$180 (Launch) | $497.22 (Inflation) | **Current Market:** <!-- PRICE_VSS200_START -->$247.50<!-- PRICE_VSS200_END -->
 - **Notable Fact:** Features 9 DSP effects (Fuzz, Echo, FM modulation) for creative sample manipulation.
 - [Historical Overview](https://synthmania.com/yamaha-vss-200/) ![status-stable](https://img.shields.io/badge/status-stable-green) - Archive resource showcasing the sound and history of the VSS-200. #WebArchive #Reference
 - [Operating Manual](https://usa.yamaha.com/files/download/other_assets/2/322302/VSS200E.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Primary web-based operating manual for the Yamaha VSS-200. #DirectPDF #Reference
 
 #### **Yamaha DJX-1** (1998-2000)
 - **Production:** 1998 – 2000 (Discontinued)
-- **MSRP:** $500 (Launch) | **Current Market:** <!-- PRICE_DJX1_START -->$227.50<!-- PRICE_DJX1_END -->
+- **MSRP:** $500 (Launch) | $1,002.40 (Inflation) | **Current Market:** <!-- PRICE_DJX1_START -->$227.50<!-- PRICE_DJX1_END -->
 - **Notable Fact:** Features a ribbon controller and assignable knobs tailored for late-90s dance music production.
 - [Historical Overview](https://www.vintagesynth.com/yamaha/djx.php) ![status-stable](https://img.shields.io/badge/status-stable-green) - Community wiki providing technical context for the DJX-1 dance station. #Wiki #Reference
 - [Service Manual](https://archive.org/details/yamaha-djx-psr-d1-service-manual) ![status-stable](https://img.shields.io/badge/status-stable-green) - Web archive repository for the Yamaha DJX-1 technical service manual. #WebArchive #Reference
 
 #### **Yamaha DJX-II** (2000-2002)
 - **Production:** 2000 – 2002 (Discontinued)
-- **MSRP:** ~$450 (Launch) | **Current Market:** <!-- PRICE_DJX2_START -->TBD<!-- PRICE_DJX2_END -->
+- **MSRP:** ~$450 (Launch) | $853.96 (Inflation) | **Current Market:** <!-- PRICE_DJX2_START -->TBD<!-- PRICE_DJX2_END -->
 - **Notable Fact:** Notable for lacking standard MIDI note transmission; it only transmits system clock and data.
 - [Historical Overview](https://synthmania.com/2005/02/22/yamaha-djx-iib/) ![status-stable](https://img.shields.io/badge/status-stable-green) - Archive resource detailing the unique architecture of the DJX-II series. #WebArchive #Reference
 - [Operating Manual](https://usa.yamaha.com/files/download/other_assets/2/319592/DJXIIE.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Primary web-based operating manual for the Yamaha DJX-II. #DirectPDF #Reference
@@ -389,36 +389,36 @@ Quick-reference for the essential hardware that defined portable chord sequencin
 
 #### **Korg Poly-800** (1983-1987)
 - **Production:** 1983 – 1987 (Discontinued)
-- **MSRP:** $795 (Launch) | **Current Market:** <!-- PRICE_POLY800_START -->$355.00<!-- PRICE_POLY800_END -->
-- **Notable Fact:** The first programmable poly-synth under $1k; features pegs for use with a guitar strap as a keytar.
+- **MSRP:** $795 (Launch) | $2,608.35 (Inflation) | **Current Market:** <!-- PRICE_POLY800_START -->$355.00<!-- PRICE_POLY800_END -->
+- **Notable Fact:** The first programmable poly-synth under $1k ($3,280.94 Inflation); features pegs for use with a guitar strap as a keytar.
 - [Historical Overview](https://en.wikipedia.org/wiki/Korg_Poly-800) ![status-stable](https://img.shields.io/badge/status-stable-green) - Wikipedia history of the Korg Poly-800's accessible polyphonic synthesis. #Wiki #Reference
 - [Service Manual](http://www.synfo.nl/servicemanuals/Korg/POLY-800_SERVICE_MANUAL.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Direct technical service manual for repairing the Korg Poly-800. #DirectPDF #Reference
 - [Modification (Moog Slayer)](https://www.synthtopia.com/content/2008/01/29/korg-poly-800-moog-slayer-mod/) ![status-stable](https://img.shields.io/badge/status-stable-green) - Technical guide for implementing the famous Moog-style filter mod. #HowTo #Reference
 
 #### **Korg Poly-800 II** (1986-1988)
 - **Production:** 1986 – 1988 (Discontinued)
-- **MSRP:** ~$850 (Launch) | **Current Market:** <!-- PRICE_POLY800_2_START -->$355.00<!-- PRICE_POLY800_2_END -->
+- **MSRP:** ~$850 (Launch) | $2,534.35 (Inflation) | **Current Market:** <!-- PRICE_POLY800_2_START -->$355.00<!-- PRICE_POLY800_2_END -->
 - **Notable Fact:** Updated the original with a digital delay and an improved filter, often preferred by modern collectors.
 - [Historical Overview](https://www.vintagesynth.com/korg/poly800.php) ![status-stable](https://img.shields.io/badge/status-stable-green) - Combined community wiki for the Poly-800 series specifications. #Wiki #Reference
 - [Battery Leak Repair Guide](https://www.youtube.com/watch?v=korg-poly-800-battery-fix) ![status-stable](https://img.shields.io/badge/status-stable-green) - Visual technical guide for repairing internal battery damage in legacy synths. #Video #Reference
 
 #### **Roland Alpha Juno-1** (1985-1987)
 - **Production:** 1985 – 1987 (Discontinued)
-- **MSRP:** $895 (Launch) | **Current Market:** <!-- PRICE_ALPHAJUNO1_START -->$425.00<!-- PRICE_ALPHAJUNO1_END -->
+- **MSRP:** $895 (Launch) | $2,718.12 (Inflation) | **Current Market:** <!-- PRICE_ALPHAJUNO1_START -->$425.00<!-- PRICE_ALPHAJUNO1_END -->
 - **Notable Fact:** Famous for the "Hoover" sound (Preset 86) which became a foundational element of rave and techno.
 - [Historical Overview](https://www.vintagesynth.com/roland/ajuno1.php) ![status-stable](https://img.shields.io/badge/status-stable-green) - Community wiki providing context for the iconic Alpha Juno-1 synthesizer. #Wiki #Reference
 - [Service Manual](http://www.synfo.nl/servicemanuals/Roland/JU-1_SERVICE_NOTES.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Direct technical service notes for maintaining the Roland JU-1. #DirectPDF #Reference
 
 #### **Roland Alpha Juno-2** (1985-1988)
 - **Production:** 1985 – 1988 (Discontinued)
-- **MSRP:** $1,295 (Launch) | **Current Market:** <!-- PRICE_ALPHAJUNO2_START -->$560.00<!-- PRICE_ALPHAJUNO2_END -->
+- **MSRP:** $1,295 (Launch) | $3,932.92 (Inflation) | **Current Market:** <!-- PRICE_ALPHAJUNO2_START -->$560.00<!-- PRICE_ALPHAJUNO2_END -->
 - **Notable Fact:** Adds a 61-note keyboard with velocity and aftertouch, plus a cartridge slot for additional patches.
 - [Historical Overview](https://www.vintagesynth.com/roland/ajuno2.php) ![status-stable](https://img.shields.io/badge/status-stable-green) - Community wiki providing context for the expanded Alpha Juno-2 synthesizer. #Wiki #Reference
 - [Service Manual](http://www.synfo.nl/servicemanuals/Roland/JU-2_SERVICE_NOTES.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Direct technical service notes for maintaining the Roland JU-2. #DirectPDF #Reference
 
 #### **Roland PMA-5** (1995-1999)
 - **Production:** 1996 – 2001 (Discontinued)
-- **MSRP:** $595 (Launch) | **Current Market:** <!-- PRICE_PMA5_START -->$45.00<!-- PRICE_PMA5_END -->
+- **MSRP:** $595 (Launch) | $1,275.82 (Inflation) | **Current Market:** <!-- PRICE_PMA5_START -->$45.00<!-- PRICE_PMA5_END -->
 - **Notable Fact:** A handheld music workstation with a stylus-driven touchscreen interface, unique for its time.
 - [Historical Overview](https://southsideguitars.com.au/products/roland-pma-5) ![status-stable](https://img.shields.io/badge/status-stable-green) - Dealer archive documenting the rare Roland PMA-5 touch workstation. #Reference #Reference
 - [Operating Manual](https://cdn.roland.com/assets/media/pdf/PMA-5_OM.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Primary official operating manual for the Roland PMA-5 music PDA. #DirectPDF #Reference
