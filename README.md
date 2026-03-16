@@ -205,7 +205,7 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 
 #### 🎥 Media & Demos
 - [OM-150 All Sounds](https://youtu.be/U-xYnzPi2ng) ![status-stable](https://img.shields.io/badge/status-stable-green) - Comprehensive sound demonstration of the Suzuki OM-150. #Video #Reference
-- [OM-150 Chill Bubbles](https://youtu.be/5CxUwLbMw_0) ![status-stable](https://img.shields.io/badge/status-stable-green) - Creative performance featuring the Suzuki OM-150's sound set. #Video #Reference
+- [OM-250m by keyboard resource](https://youtu.be/5CxUwLbMw_0) ![status-stable](https://img.shields.io/badge/status-stable-green) - Creative performance featuring the Suzuki OM-250m's sound set. #Video #Reference
 - [OM-250M Demo](https://youtu.be/5axBQ83S348) ![status-stable](https://img.shields.io/badge/status-stable-green) - Audio and visual demonstration of the Suzuki OM-250M. #Video #Reference
 </details>
 
@@ -218,6 +218,8 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 
 - [User Guide (Primary)](https://device.report/Omnichord/OM300) ![status-stable](https://img.shields.io/badge/status-stable-green) - Primary web-viewable owner's guide for the Suzuki OM-300. #WebView #Reference
 - [User Guide (Mirror)](http://www.omnichord-heaven.com/owners_guides.html) ![status-stable](https://img.shields.io/badge/status-stable-green) - Web archive mirror for the Suzuki OM-300 owner's guide. #WebArchive #Reference
+- [Schematic (Requested)](https://github.com/KhanTheDaleK1/Awesome-Omichord/issues) ![status-critical](https://img.shields.io/badge/status-critical-red) - [Document sought; link currently unavailable] - Technical schematic for the Suzuki OM-300. #SoughtDocument #Reference
+- [User Guide PDF (Requested)](https://github.com/KhanTheDaleK1/Awesome-Omichord/issues) ![status-critical](https://img.shields.io/badge/status-critical-red) - [Document sought; link currently unavailable] - High-fidelity PDF owner's manual for the Suzuki OM-300. #SoughtDocument #Reference
 
 #### 🎥 Media & Demos
 - [OM-300 Demo](https://youtu.be/KdtR_TREAyQ) ![status-stable](https://img.shields.io/badge/status-stable-green) - Audio and visual demonstration of the Suzuki OM-300. #Video #Reference
@@ -232,9 +234,9 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 
 - [User Guide (Local PDF)](./docs/manuals/suzuki/qchord/owners-guide.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Local PDF owner's guide for the Suzuki QChord QC-1. #DirectPDF #Reference
 - [User Guide (Primary)](https://www.omnichord-heaven.com/downloads/manuals/qchord-manual.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Primary web owner's manual for the Suzuki QChord. #DirectPDF #Reference
-- [User Guide (Mirror)](https://www.qchord.net/docs/qchord-manual.html) ![status-stable](https://img.shields.io/badge/status-stable-green) - HTML-based mirror for the Suzuki QChord owner's manual. #HTML #Reference
+- [qchord.net Model QC-1 Manual](https://www.qchord.net/docs/qchord-manual.html) ![status-stable](https://img.shields.io/badge/status-stable-green) - HTML-based mirror for the Suzuki QChord owner's manual. #HTML #Reference
 - [Schematic](https://www.scribd.com/document/720477201/Suzuki-Q-Chord-Schematic) ![status-stable](https://img.shields.io/badge/status-stable-green) - Technical schematic for the Suzuki QChord hardware. #Scribd #Reference
-- [Repair Documentation](https://www.popsmusic.com/qchord-do-it-yourself-repair-help.html) ![status-stable](https://img.shields.io/badge/status-stable-green) - Community-driven repair guide for the Suzuki QChord. #RepairGuide #Reference
+- [Popsmusic QChord DIY Repair Help](https://www.popsmusic.com/qchord-do-it-yourself-repair-help.html) ![status-stable](https://img.shields.io/badge/status-stable-green) - Community-driven repair guide for the Suzuki QChord. #RepairGuide #Reference
 
 #### 🎥 Media & Demos
 - [Qchord QC-1 Demo](https://youtu.be/eBE4HK-Q5sk) ![status-stable](https://img.shields.io/badge/status-stable-green) - Audio and visual demonstration of the Suzuki QChord QC-1. #Video #Reference
