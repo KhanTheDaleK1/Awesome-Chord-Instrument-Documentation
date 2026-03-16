@@ -120,6 +120,7 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 - **Notable Fact:** The "zero-generation" Omnichord; marketed as an electronic autoharp. The Portachord was the export version.
 
 - [User Guide (Local PDF)](./docs/manuals/suzuki/tronichord-pc-27/owners-guide.pdf) ![status-legacy](https://img.shields.io/badge/status-legacy-yellow) - Local PDF owner's guide for the Suzuki PC-27. #DirectPDF #Reference
+- [Schematic (Requested)](https://github.com/KhanTheDaleK1/Awesome-Omichord/issues) ![status-critical](https://img.shields.io/badge/status-critical-red) - [Document sought; link currently unavailable] - Technical schematic for the Suzuki Tronichord PC-27. #SoughtDocument #Reference
 - [A Failed Instrument Turned Desired Ambient Synthesizer (Hainbach)](https://youtu.be/ZEW6ff9TJ4c) ![status-stable](https://img.shields.io/badge/status-stable-green) - In-depth exploration of the Tronichord PC-27's history and unique sound. #Video #Reference
 - [Portachord Walkthrough](https://youtu.be/8P8fIe1tYxk) ![status-stable](https://img.shields.io/badge/status-stable-green) - Visual overview and sound demonstration of the PC-27. #Video #Reference
 </details>
@@ -154,6 +155,7 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 
 - [User Guide (Local PDF)](./docs/manuals/suzuki/om-36/owners-guide.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Local PDF owner's guide for the Suzuki OM-36. #DirectPDF #Reference
 - [User Guide (Web)](http://www.omnichord-heaven.com/owners_guides.html) ![status-stable](https://img.shields.io/badge/status-stable-green) - Web archive owner's guide for the Suzuki OM-36. #WebArchive #Reference
+- [Schematic (Requested)](https://github.com/KhanTheDaleK1/Awesome-Omichord/issues) ![status-critical](https://img.shields.io/badge/status-critical-red) - [Document sought; link currently unavailable] - Technical schematic for the Suzuki OM-36. #SoughtDocument #Reference
 - [Schematic Note](https://www.reddit.com/r/Omnichord/comments/13wdvvf/om36_schematic/) ![status-stable](https://img.shields.io/badge/status-stable-green) - Technical note regarding the OM-36 schematic logic. #TechnicalNote #Reference
 
 #### 🎥 Media & Demos
@@ -186,6 +188,7 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 - **Notable Fact:** The OM-200M was the first model to feature native MIDI Out, enabling control of external synths.
 
 - [User Guide (Local PDF)](./docs/manuals/suzuki/om-100-200m/owners-guide.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Local PDF owner's guide for the Suzuki OM-100 and 200M. #DirectPDF #Reference
+- [Schematic (Requested)](https://github.com/KhanTheDaleK1/Awesome-Omichord/issues) ![status-critical](https://img.shields.io/badge/status-critical-red) - [Document sought; link currently unavailable] - Technical schematic for the Suzuki OM-100 / OM-200M. #SoughtDocument #Reference
 - [User Guide (Web)](http://www.omnichord-heaven.com/owners_guides.html) ![status-stable](https://img.shields.io/badge/status-stable-green) - Web archive owner's guide for the Suzuki OM-100 and 200M. #WebArchive #Reference
 - [Schematic](https://circuitbending.miraheze.org/wiki/Suzuki_Omnichord) ![status-stable](https://img.shields.io/badge/status-stable-green) - Community wiki hosting technical schematics for the OM-series. #Wiki #Reference
 
@@ -205,6 +208,7 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 - **Notable Fact:** These models refined the PCM sounds and ergonomics before the transition to the OM-300.
 
 - [User Guide (Local PDF)](./docs/manuals/suzuki/om-150-250m/owners-guide.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Local PDF owner's guide for the Suzuki OM-150 and 250M. #DirectPDF #Reference
+- [Schematic (Requested)](https://github.com/KhanTheDaleK1/Awesome-Omichord/issues) ![status-critical](https://img.shields.io/badge/status-critical-red) - [Document sought; link currently unavailable] - Technical schematic for the Suzuki OM-150 / OM-250M. #SoughtDocument #Reference
 - [User Guide (Web)](http://www.omnichord-heaven.com/owners_guides.html) ![status-stable](https://img.shields.io/badge/status-stable-green) - Web archive owner's guide for the Suzuki OM-150 and 250M. #WebArchive #Reference
 
 #### 🎥 Media & Demos
@@ -258,6 +262,7 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 - [Official Manual (Web)](https://www.suzuki-music.co.jp/manual/om-108_en) ![status-stable](https://img.shields.io/badge/status-stable-green) - Primary web owner's manual for the Suzuki OM-108. #DirectPDF #Reference
 - [Sweetwater Quickstart Guide](https://www.sweetwater.com/sweetcare/articles/suzuki-omnichord-om-108-quickstart-guide/) ![status-stable](https://img.shields.io/badge/status-stable-green) - Comprehensive setup and feature guide for new OM-108 owners. #Article #Reference
 - [The Kyoto Connection Review](https://thekyotoconnection.com/omnichord-om-108-review/) ![status-stable](https://img.shields.io/badge/status-stable-green) - Artistic and technical deep-dive into the OM-108's capabilities for ambient music. #Article #Reference
+- [Schematic (Requested)](https://github.com/KhanTheDaleK1/Awesome-Omichord/issues) ![status-critical](https://img.shields.io/badge/status-critical-red) - [Document sought; link currently unavailable] - Technical schematic for the Suzuki OM-108. #SoughtDocument #Reference
 
 #### 🎥 Media & Demos
 - [Sonicstate NAMM 2024 Demo](https://youtu.be/v_8WvowXBak) ![status-stable](https://img.shields.io/badge/status-stable-green) - The original 2024 reveal featuring Suzuki's Yu Horiuchi. #Video #Reference
