@@ -22,17 +22,125 @@ INSTRUMENTS = {
         "reverb": "Suzuki Omnichord OM-27",
         "ebay": "Suzuki Omnichord OM-27 -adapter -overlay"
     },
+    "OM-36": {
+        "reverb": "Suzuki Omnichord OM-36",
+        "ebay": "Suzuki Omnichord OM-36"
+    },
     "OM-84": {
         "reverb": "Suzuki Omnichord OM-84",
         "ebay": "Suzuki Omnichord OM-84 -adapter"
+    },
+    "OM-100": {
+        "reverb": "Suzuki Omnichord OM-100",
+        "ebay": "Suzuki Omnichord OM-100"
+    },
+    "OM-200M": {
+        "reverb": "Suzuki Omnichord OM-200M",
+        "ebay": "Suzuki Omnichord OM-200M"
+    },
+    "OM-150": {
+        "reverb": "Suzuki Omnichord OM-150",
+        "ebay": "Suzuki Omnichord OM-150"
+    },
+    "OM-250M": {
+        "reverb": "Suzuki Omnichord OM-250M",
+        "ebay": "Suzuki Omnichord OM-250M"
+    },
+    "OM-300": {
+        "reverb": "Suzuki Omnichord OM-300",
+        "ebay": "Suzuki Omnichord OM-300"
     },
     "QCHORD": {
         "reverb": "Suzuki QChord QC-1",
         "ebay": "Suzuki QChord QC-1"
     },
+    "OM-108": {
+        "reverb": "Suzuki Omnichord OM-108",
+        "ebay": "Suzuki Omnichord OM-108"
+    },
+    "VL1": {
+        "reverb": "Casio VL-1",
+        "ebay": "Casio VL-1 synthesizer"
+    },
+    "PT30": {
+        "reverb": "Casio PT-30",
+        "ebay": "Casio PT-30 keyboard"
+    },
+    "SK1": {
+        "reverb": "Casio SK-1",
+        "ebay": "Casio SK-1 sampler"
+    },
+    "SK5": {
+        "reverb": "Casio SK-5",
+        "ebay": "Casio SK-5 sampler"
+    },
+    "SK8": {
+        "reverb": "Casio SK-8",
+        "ebay": "Casio SK-8 sampler"
+    },
+    "SK200": {
+        "reverb": "Casio SK-200",
+        "ebay": "Casio SK-200 sampler"
+    },
+    "VSS30": {
+        "reverb": "Yamaha VSS-30",
+        "ebay": "Yamaha VSS-30 sampler"
+    },
+    "VSS200": {
+        "reverb": "Yamaha VSS-200",
+        "ebay": "Yamaha VSS-200 sampler"
+    },
+    "QY10": {
+        "reverb": "Yamaha QY10",
+        "ebay": "Yamaha QY10 sequencer"
+    },
+    "QY20": {
+        "reverb": "Yamaha QY20",
+        "ebay": "Yamaha QY20 sequencer"
+    },
+    "QR10": {
+        "reverb": "Yamaha QR10",
+        "ebay": "Yamaha QR10"
+    },
+    "QY70": {
+        "reverb": "Yamaha QY70",
+        "ebay": "Yamaha QY70 sequencer"
+    },
+    "QY100": {
+        "reverb": "Yamaha QY100",
+        "ebay": "Yamaha QY100 sequencer"
+    },
+    "DJX1": {
+        "reverb": "Yamaha DJX",
+        "ebay": "Yamaha DJX keyboard"
+    },
+    "DJX2": {
+        "reverb": "Yamaha DJX-II",
+        "ebay": "Yamaha DJX-II"
+    },
     "POLY800": {
         "reverb": "Korg Poly-800",
         "ebay": "Korg Poly-800 synthesizer"
+    },
+    "POLY800_2": {
+        "reverb": "Korg Poly-800 II",
+        "ebay": "Korg Poly-800 II"
+    },
+    "ALPHAJUNO1": {
+        "reverb": "Roland Alpha Juno-1",
+        "ebay": "Roland Alpha Juno-1"
+    },
+    "ALPHAJUNO2": {
+        "reverb": "Roland Alpha Juno-2",
+        "ebay": "Roland Alpha Juno-2"
+    },
+    "PMA5": {
+        "reverb": "Roland PMA-5",
+        "ebay": "Roland PMA-5"
+    },
+    "TRONICHORD": {
+        "reverb": "Suzuki Tronichord",
+        "ebay": "Suzuki Tronichord PC-27"
     }
 }
 
