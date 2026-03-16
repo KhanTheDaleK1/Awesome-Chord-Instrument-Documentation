@@ -41,3 +41,8 @@ npm run link-check
 # Verify local PDF integrity via SHA-256 manifest
 cd docs && shasum -a 256 -c checksums.txt
 ```
+
+## 🏗️ Tech Stack Specifics
+- **Primary Format:** Markdown
+- **Diagrams:** Mermaid.js (for schematics and logic flow)
+- **Documentation Framework:** Docusaurus 3.x

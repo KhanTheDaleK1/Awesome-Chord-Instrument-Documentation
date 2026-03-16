@@ -54,22 +54,17 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 ## 📘 Tutorials (Learning-Oriented)
 *Learning-oriented resources for those new to chord instruments.*
 
-- [**Omnichord 101 - History & Technique**](https://theproaudiofiles.com/suzuki-omnichord/) ![status-stable](https://img.shields.io/badge/status-stable-green) `[Article]`
-  Comprehensive breakdown of history, strumplate interface, and analog circuit translation.
-- [**The Failed Instrument That Became an Ambient Legend**](https://youtu.be/R2GSSyd4liw) ![status-stable](https://img.shields.io/badge/status-stable-green) `[Documentary]`
-  Hainbach explores the history and unique sound of the Omnichord.
-- [**Omnichord Content Hub (Omnihub)**](https://sites.google.com/view/omnihub/home) ![status-maintained](https://img.shields.io/badge/status-maintained-blue) `[Community Hub]`
-  The central directory for the Omnichord community, linking to Discord, Reddit, and specialized technical resources.
+- [Omnichord 101 - History & Technique](https://theproaudiofiles.com/suzuki-omnichord/) ![status-stable](https://img.shields.io/badge/status-stable-green) - Comprehensive breakdown of history, strumplate interface, and analog circuit translation. #Article #Tutorial
+- [The Failed Instrument That Became an Ambient Legend](https://youtu.be/R2GSSyd4liw) ![status-stable](https://img.shields.io/badge/status-stable-green) - Hainbach explores the history and unique sound of the Omnichord. #Documentary #Tutorial
+- [Omnichord Content Hub (Omnihub)](https://sites.google.com/view/omnihub/home) ![status-maintained](https://img.shields.io/badge/status-maintained-blue) - The central directory for the Omnichord community, linking to Discord, Reddit, and specialized technical resources. #CommunityHub #Tutorial
 
 ---
 
 ## 🕹️ Interactive Emulators (Playful)
 *Browser-based emulations for a hands-on experience without the hardware.*
 
-- [**Online Omnichord (OM-27)**](https://onlineomnichord.com/) ![status-stable](https://img.shields.io/badge/status-stable-green) `[Web Emulator]`
-  A realistic recreation of the original 1981 OM-27. Best for authentic lo-fi analog sounds and keyboard-based play.
-- [**Omnichord Online (Expanded)**](https://www.omnichordonline.com/) ![status-stable](https://img.shields.io/badge/status-stable-green) `[Web Emulator]`
-  A modern, mobile-friendly emulator featuring an expanded chord palette (Maj7, Aug, Dim). Perfect for complex songwriting.
+- [Online Omnichord (OM-27)](https://onlineomnichord.com/) ![status-stable](https://img.shields.io/badge/status-stable-green) - A realistic recreation of the original 1981 OM-27 best for authentic lo-fi analog sounds. #WebEmulator #Software
+- [Omnichord Online (Expanded)](https://www.omnichordonline.com/) ![status-stable](https://img.shields.io/badge/status-stable-green) - A modern, mobile-friendly emulator featuring an expanded chord palette for complex songwriting. #WebEmulator #Software
 
 ---
 
@@ -93,18 +88,12 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 ## 🛠️ How-To Guides (Goal-Oriented)
 *Goal-oriented resources for solving specific problems or implement features.*
 
-- [**Mapping QChord Pitch Bend to VSTs**](https://www.kvraudio.com/forum/viewtopic.php?t=192282) ![status-stable](https://img.shields.io/badge/status-stable-green) `[Forum Guide]`
-  Using Piz MIDI Plugins to translate aggressive strum pitch bends into standard MIDI notes.
-- [**Using Q-Chord MIDI in a DAW**](https://www.reddit.com/r/Omnichord/comments/174m7d5/using_qchord_midi_in_a_daw_my_way/) ![status-stable](https://img.shields.io/badge/status-stable-green) `[Reddit Guide]`
-  Detailed routing for isolating strumplate channels (14, 15, 16).
-- [**Piz MIDI Utilities (midiPitchBendToNotes)**](https://www.paulcecchettimusic.com/piz-midi-utilities-archived-download-links/) ![status-maintained](https://img.shields.io/badge/status-maintained-blue) `[Software Download]`
-  Essential VSTs for QChord DAW integration.
-- [**Correcting Power Polarity (OM-100)**](https://www.keithrobertmurray.com/articles/omnichord-om-100-ps.html) ![status-critical](https://img.shields.io/badge/status-critical-red) `[Repair Guide]`
-  Step-by-step on replacing the 2.2-ohm resistor after a polarity mismatch.
-- [**Le Strum Open Source Repository**](https://github.com/hotchk155/Voici-Le-Strum) ![status-open-source](https://img.shields.io/badge/status-open--source-brightgreen) `[GitHub Repo]`
-  Firmware and hardware files for DIY MIDI chord control.
-- [**Modified Omnichord by Folktek**](https://youtu.be/R7FUiJN9Ehw) ![status-stable](https://img.shields.io/badge/status-stable-green) `[Demo]`
-  A showcase of high-end circuit bending and artistic modifications by Ben Houston.
+- [Mapping QChord Pitch Bend to VSTs](https://www.kvraudio.com/forum/viewtopic.php?t=192282) ![status-stable](https://img.shields.io/badge/status-stable-green) - Using Piz MIDI Plugins to translate aggressive strum pitch bends into standard MIDI notes. #ForumGuide #HowTo
+- [Using Q-Chord MIDI in a DAW](https://www.reddit.com/r/Omnichord/comments/174m7d5/using_qchord_midi_in_a_daw_my_way/) ![status-stable](https://img.shields.io/badge/status-stable-green) - Detailed routing for isolating strumplate channels on models like the QChord. #RedditGuide #HowTo
+- [Piz MIDI Utilities (midiPitchBendToNotes)](https://www.paulcecchettimusic.com/piz-midi-utilities-archived-download-links/) ![status-maintained](https://img.shields.io/badge/status-maintained-blue) - Essential VSTs for QChord DAW integration and MIDI translation. #SoftwareDownload #HowTo
+- [Correcting Power Polarity (OM-100)](https://www.keithrobertmurray.com/articles/omnichord-om-100-ps.html) ![status-critical](https://img.shields.io/badge/status-critical-red) - Step-by-step on replacing the 2.2-ohm resistor after a polarity mismatch. #RepairGuide #HowTo
+- [Le Strum Open Source Repository](https://github.com/hotchk155/Voici-Le-Strum) ![status-open-source](https://img.shields.io/badge/status-open--source-brightgreen) - Firmware and hardware files for DIY MIDI chord control. #GitHubRepo #HowTo
+- [Modified Omnichord by Folktek](https://youtu.be/R7FUiJN9Ehw) ![status-stable](https://img.shields.io/badge/status-stable-green) - A showcase of high-end circuit bending and artistic modifications by Ben Houston. #Demo #HowTo
 
 ---
 
@@ -436,29 +425,22 @@ Quick-reference for the essential hardware that defined portable chord sequencin
 </details>
 
 ### Modern Boutique Instruments
-- [**Pocket Audio HiChord**](https://hichord.shop/) ![status-maintained](https://img.shields.io/badge/status-maintained-blue) `[Hardware]`
-- [**Minichord (Benjamin Poilvé)**](https://minichord.com/) ![status-maintained](https://img.shields.io/badge/status-maintained-blue) `[Hardware]`
-- [**Minichord GitHub Repository**](https://github.com/BenjaminPoilve/minichord) ![status-open-source](https://img.shields.io/badge/status-open--source-brightgreen) `[GitHub Repo]`
-- [**Orchid ORC-1**](https://telepathicinstruments.com/products/orchid-orc-1) ![status-maintained](https://img.shields.io/badge/status-maintained-blue) `[Hardware]`
-- [**Le Grand Strum (64pixels)**](https://six4pix.com/product/grandstrum/) ![status-maintained](https://img.shields.io/badge/status-maintained-blue) `[Hardware]`
+- [Pocket Audio HiChord](https://hichord.shop/) ![status-maintained](https://img.shields.io/badge/status-maintained-blue) - A modern, pocket-sized chord instrument with a unique touch interface. #Hardware #Hardware
+- [Minichord (Benjamin Poilvé)](https://minichord.com/) ![status-maintained](https://img.shields.io/badge/status-maintained-blue) - An elegant, compact digital reimagining of the classic chord harp. #Hardware #Hardware
+- [Minichord GitHub Repository](https://github.com/BenjaminPoilve/minichord) ![status-open-source](https://img.shields.io/badge/status-open--source-brightgreen) - Open source hardware and firmware for the Minichord project. #GitHubRepo #Hardware
+- [Orchid ORC-1](https://telepathicinstruments.com/products/orchid-orc-1) ![status-maintained](https://img.shields.io/badge/status-maintained-blue) - A boutique polyphonic synthesizer designed for intuitive chord performance. #Hardware #Hardware
+- [Le Grand Strum (64pixels)](https://six4pix.com/product/grandstrum/) ![status-maintained](https://img.shields.io/badge/status-maintained-blue) - A MIDI controller that emulates the strumming action of an Omnichord or Autoharp. #Hardware #Hardware
 
 ### Vintage "Autochords" & Mechanical Origins
-- [**Hammond Piper Autochord (1970)**](https://archive.org/details/hammond-piper-service-manual) ![status-legacy](https://img.shields.io/badge/status-legacy-yellow) `[Web Archive]`
-  - **Production:** 1970 – 1979 (Discontinued)
-  - **MSRP:** <$1,000 (Launch)
-  - **Notable Fact:** The first instrument to feature "automatic chording," famously endorsed by Duke Ellington.
-- [**Suzuki Tronichord (PC-27)**](./docs/manuals/suzuki/tronichord-pc-27/owners-guide.pdf) ![status-legacy](https://img.shields.io/badge/status-legacy-yellow) `[Direct PDF]`
-  - **Production:** 1980 – 1981 (Discontinued)
-  - **MSRP:** ~$150 (Launch)
-  - **Notable Fact:** The direct precursor to the Omnichord; extremely rare and marketed as the "Portachord."
+- [Hammond Piper Autochord (1970)](https://archive.org/details/hammond-piper-service-manual) ![status-legacy](https://img.shields.io/badge/status-legacy-yellow) - The first instrument to feature "automatic chording," famously endorsed by Duke Ellington. #WebArchive #Reference
+- [Suzuki Tronichord (PC-27)](./docs/manuals/suzuki/tronichord-pc-27/owners-guide.pdf) ![status-legacy](https://img.shields.io/badge/status-legacy-yellow) - The direct precursor to the Omnichord, extremely rare and marketed as the Portachord. #DirectPDF #Reference
 
 ---
 
 ## 🧠 Explanation (Understanding-Oriented)
 *Understanding-oriented background material and technical analysis.*
 
-- [**OM-27 Matrix Deep Dive**](https://erichizdepski.wordpress.com/2024/06/20/om-27-deep-dive/) ![status-stable](https://img.shields.io/badge/status-stable-green) `[Hardware Analysis]`
-  Tracing the matrix logic on the vintage OM-27 PCB for repair or MIDI integration.
+- [OM-27 Matrix Deep Dive](https://erichizdepski.wordpress.com/2024/06/20/om-27-deep-dive/) ![status-stable](https://img.shields.io/badge/status-stable-green) - Tracing the matrix logic on the vintage OM-27 PCB for repair or MIDI integration. #HardwareAnalysis #Explanation
 
 ---
 
