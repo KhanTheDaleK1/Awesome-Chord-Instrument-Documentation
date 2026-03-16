@@ -236,6 +236,7 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 - **Notable Fact:** A digital reimagining with 100 voices and a QCard expansion slot for proprietary song cartridges.
 
 - [User Guide (Local PDF)](./docs/manuals/suzuki/qchord/owners-guide.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Local PDF owner's guide for the Suzuki QChord QC-1. #DirectPDF #Reference
+- [Service Manual & Schematic (Local PDF)](./docs/manuals/suzuki/qchord/Q-Chord-Schematic.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Local high-fidelity service manual and technical schematics for the QChord. #DirectPDF #Reference
 - [User Guide (Primary)](https://www.omnichord-heaven.com/downloads/manuals/qchord-manual.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Primary web owner's manual for the Suzuki QChord. #DirectPDF #Reference
 - [qchord.net Model QC-1 Manual](https://www.qchord.net/docs/qchord-manual.html) ![status-stable](https://img.shields.io/badge/status-stable-green) - HTML-based mirror for the Suzuki QChord owner's manual. #HTML #Reference
 - [Schematic](https://www.scribd.com/document/720477201/Suzuki-Q-Chord-Schematic) ![status-stable](https://img.shields.io/badge/status-stable-green) - Technical schematic for the Suzuki QChord hardware. #Scribd #Reference
