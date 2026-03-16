@@ -1,4 +1,4 @@
-# Awesome Chord Instruments 🎹✨
+# Awesome Omnichord 🎹✨
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![Stability: Stable](https://img.shields.io/badge/stability-stable-green.svg)
