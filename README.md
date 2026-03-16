@@ -93,7 +93,6 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 - [Using Q-Chord MIDI in a DAW](https://www.reddit.com/r/Omnichord/comments/174m7d5/using_qchord_midi_in_a_daw_my_way/) ![status-stable](https://img.shields.io/badge/status-stable-green) - Detailed routing for isolating strumplate channels (14, 15, 16). #RedditGuide #HowTo
 - [Piz MIDI Utilities (midiPitchBendToNotes)](https://www.paulcecchettimusic.com/piz-midi-utilities-archived-download-links/) ![status-maintained](https://img.shields.io/badge/status-maintained-blue) - Essential VSTs for QChord DAW integration. #SoftwareDownload #HowTo
 - [Correcting Power Polarity (OM-100)](https://www.keithrobertmurray.com/articles/omnichord-om-100-ps.html) ![status-critical](https://img.shields.io/badge/status-critical-red) - Step-by-step on replacing the 2.2-ohm resistor after a polarity mismatch. #RepairGuide #HowTo
-- [Le Strum Open Source Repository](https://github.com/hotchk155/Voici-Le-Strum) ![status-open-source](https://img.shields.io/badge/status-open--source-brightgreen) - Firmware and hardware files for DIY MIDI chord control. #GitHubRepo #HowTo
 
 ---
 
@@ -453,6 +452,7 @@ Quick-reference for the essential hardware that defined portable chord sequencin
 </details>
 
 ### Modern Boutique Instruments
+- [Le Strum Open Source Repository](https://github.com/hotchk155/Voici-Le-Strum) ![status-open-source](https://img.shields.io/badge/status-open--source-brightgreen) - Firmware and hardware files for DIY MIDI chord control. #GitHubRepo #HowTo
 - [Pocket Audio HiChord](https://hichord.shop/) ![status-maintained](https://img.shields.io/badge/status-maintained-blue) - A modern, pocket-sized chord instrument with a unique touch interface. #Hardware #Hardware
 - [Minichord (Benjamin Poilvé)](https://minichord.com/) ![status-maintained](https://img.shields.io/badge/status-maintained-blue) - An elegant, compact digital reimagining of the classic chord harp. #Hardware #Hardware
 - [Minichord GitHub Repository](https://github.com/BenjaminPoilve/minichord) ![status-open-source](https://img.shields.io/badge/status-open--source-brightgreen) - Open source hardware and firmware for the Minichord project. #GitHubRepo #Hardware
