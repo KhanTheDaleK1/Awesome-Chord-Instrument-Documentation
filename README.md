@@ -67,23 +67,6 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 
 ---
 
-## ⚠️ Power & Polarity Safety (CRITICAL)
-*Most vintage chord instruments use non-standard power polarities. Using the wrong adapter will cause permanent hardware failure.*
-
-> [!CAUTION]
-> **POLARITY MISMATCH:** Most modern 9V/12V adapters (like guitar pedal supplies) are **Center-Negative**. However, many vintage Yamaha units are **Center-Positive**, while Suzuki and Casio units are **Center-Negative**. Always verify the symbol on the chassis before plugging in.
-
-### Quick Reference Polarity Table
-| Brand | Series / Model | Voltage | Polarity | Recommended Tip |
-| :--- | :--- | :--- | :--- | :--- |
-| **Suzuki** | All Omnichords / QChord | 12V DC | **Center-Negative** | 2.1mm |
-| **Casio** | VL-1, SK-Series, PT-Series| 6V-7.5V DC | **Center-Negative** | 2.1mm |
-| **Yamaha** | QY-Series, QR-Series | 9V-12V DC | **Center-Positive** | 2.1mm |
-| **Korg** | Poly-800 | 9V DC | **Center-Negative** | 2.1mm |
-| **Roland** | PMA-5 | 9V DC | **Center-Negative** | 2.1mm |
-
----
-
 ## 🛠️ How-To Guides (Goal-Oriented)
 *Goal-oriented resources for solving specific problems or implement features.*
 
@@ -285,6 +268,23 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 ### Modern Hardware Tributes
 - [Minichord (Benjamin Poilvé)](https://minichord.com/) ![status-maintained](https://img.shields.io/badge/status-maintained-blue) - An elegant, compact digital reimagining of the classic chord harp. #Hardware #Hardware
 - [Minichord GitHub Repository](https://github.com/BenjaminPoilve/minichord) ![status-open-source](https://img.shields.io/badge/status-open--source-brightgreen) - Open source hardware and firmware for the Minichord project. #GitHubRepo #Hardware
+
+---
+
+## ⚠️ Power & Polarity Safety (CRITICAL)
+*Most vintage chord instruments use non-standard power polarities. Using the wrong adapter will cause permanent hardware failure.*
+
+> [!CAUTION]
+> **POLARITY MISMATCH:** Most modern 9V/12V adapters (like guitar pedal supplies) are **Center-Negative**. However, many vintage Yamaha units are **Center-Positive**, while Suzuki and Casio units are **Center-Negative**. Always verify the symbol on the chassis before plugging in.
+
+### Quick Reference Polarity Table
+| Brand | Series / Model | Voltage | Polarity | Recommended Tip |
+| :--- | :--- | :--- | :--- | :--- |
+| **Suzuki** | All Omnichords / QChord | 12V DC | **Center-Negative** | 2.1mm |
+| **Casio** | VL-1, SK-Series, PT-Series| 6V-7.5V DC | **Center-Negative** | 2.1mm |
+| **Yamaha** | QY-Series, QR-Series | 9V-12V DC | **Center-Positive** | 2.1mm |
+| **Korg** | Poly-800 | 9V DC | **Center-Negative** | 2.1mm |
+| **Roland** | PMA-5 | 9V DC | **Center-Negative** | 2.1mm |
 
 ---
 
