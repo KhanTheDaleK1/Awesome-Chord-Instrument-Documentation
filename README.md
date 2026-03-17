@@ -6,7 +6,9 @@
 
 ---
 
-## 🏛️ History of Chord Instruments: From Sumer to Synthesis
+<details>
+<summary><b>🏛️ History of Chord Instruments: From Sumer to Synthesis</b></summary>
+
 *Understanding the evolution of simultaneous harmony.*
 
 ### I. Ancient Origins (3500 BCE - 500 BCE)
@@ -49,6 +51,7 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 
 > [!NOTE]
 > **Source:** Historical data and cultural analysis provided by [**Omnichord Online (History of the Omnichord)**](https://www.omnichordonline.com/history).
+</details>
 
 ---
 
