@@ -106,19 +106,6 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 
 ---
 
-## 🎨 Omnichord-Inspired Projects
-*Community-driven recreations and modern tributes that keep the strumplate alive.*
-
-### Interactive Emulators (Software)
-- [Online Omnichord (OM-27)](https://onlineomnichord.com/) ![status-stable](https://img.shields.io/badge/status-stable-green) - A realistic recreation of the original 1981 OM-27 best for authentic lo-fi analog sounds. #WebEmulator #Software
-- [Omnichord Online (Expanded)](https://www.omnichordonline.com/) ![status-stable](https://img.shields.io/badge/status-stable-green) - A modern, mobile-friendly emulator featuring an expanded chord palette for complex songwriting. #WebEmulator #Software
-
-### Modern Hardware Tributes
-- [Minichord (Benjamin Poilvé)](https://minichord.com/) ![status-maintained](https://img.shields.io/badge/status-maintained-blue) - An elegant, compact digital reimagining of the classic chord harp. #Hardware #Hardware
-- [Minichord GitHub Repository](https://github.com/BenjaminPoilve/minichord) ![status-open-source](https://img.shields.io/badge/status-open--source-brightgreen) - Open source hardware and firmware for the Minichord project. #GitHubRepo #Hardware
-
----
-
 <details>
 <summary><b>Suzuki Tronichord / Portachord PC-27 (1981)</b></summary>
 
@@ -279,6 +266,21 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 - [Sweetwater - OM-108 Feature Walkthrough](https://youtu.be/o1Mtg2O4x1n) ![status-stable](https://img.shields.io/badge/status-stable-green) - Technical breakdown of chords, layering, and MIDI functions. #Video #Reference
 - [Perfect Circuit - OM-108 Overview](https://youtu.be/R4Uebvt-kv_) ![status-stable](https://img.shields.io/badge/status-stable-green) - Product showcase highlighting the revival of the analog sound engine. #Video #Reference
 </details>
+
+---
+
+## 🎨 Omnichord-Inspired Projects
+*Community-driven recreations and modern tributes that keep the strumplate alive.*
+
+### Interactive Emulators (Software)
+- [Online Omnichord (OM-27)](https://onlineomnichord.com/) ![status-stable](https://img.shields.io/badge/status-stable-green) - A realistic recreation of the original 1981 OM-27 best for authentic lo-fi analog sounds. #WebEmulator #Software
+- [Omnichord Online (Expanded)](https://www.omnichordonline.com/) ![status-stable](https://img.shields.io/badge/status-stable-green) - A modern, mobile-friendly emulator featuring an expanded chord palette for complex songwriting. #WebEmulator #Software
+
+### Modern Hardware Tributes
+- [Minichord (Benjamin Poilvé)](https://minichord.com/) ![status-maintained](https://img.shields.io/badge/status-maintained-blue) - An elegant, compact digital reimagining of the classic chord harp. #Hardware #Hardware
+- [Minichord GitHub Repository](https://github.com/BenjaminPoilve/minichord) ![status-open-source](https://img.shields.io/badge/status-open--source-brightgreen) - Open source hardware and firmware for the Minichord project. #GitHubRepo #Hardware
+
+---
 
 ### Iconic Chord Keyboards & Pocket Stations
 Quick-reference for the essential hardware that defined portable chord sequencing and sampling. For community-driven resources on these and similar instruments, see [**Omnihub**](https://sites.google.com/view/omnihub/home).
