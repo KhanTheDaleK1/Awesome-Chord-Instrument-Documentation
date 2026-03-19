@@ -1,0 +1,37 @@
+name: "Broken Link"
+description: "Report a broken or malicious link in the list."
+title: "[Broken Link]: "
+labels: ["broken link", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for reporting! Broken links diminish the quality of our Awesome list.
+  - type: input
+    id: affected_url
+    attributes:
+      label: Affected URL
+      description: "Paste the URL that is broken or insecure."
+      placeholder: "e.g., https://example.com/broken-pdf"
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description of the Problem
+      description: "What happens when you click the link? (e.g., 404 Error, Security Warning, DNS issues)"
+    validations:
+      required: true
+  - type: input
+    id: replacement_url
+    attributes:
+      label: Proposed Replacement (Optional)
+      description: "Do you know of a working mirror or replacement link?"
+      placeholder: "e.g., https://archive.org/mirror-url"
+  - type: checkboxes
+    id: security_concern
+    attributes:
+      label: Security Check
+      options:
+        - label: "This link is potentially malicious (malware, phishing, etc.)"
+          required: false

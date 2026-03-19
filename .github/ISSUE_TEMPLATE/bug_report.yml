@@ -1,0 +1,36 @@
+name: "Bug Report"
+description: "Report an issue with the repository itself (GitHub Actions, structure, formatting errors)."
+title: "[Bug]: "
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this for reporting technical issues with the repository infrastructure or formatting.
+  - type: textarea
+    id: problem_description
+    attributes:
+      label: What is the problem?
+      description: "Describe the issue clearly and provide any error messages or evidence."
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction_steps
+    attributes:
+      label: Steps to Reproduce
+      description: "How can we replicate this issue?"
+    validations:
+      required: false
+  - type: checkboxes
+    id: environment
+    attributes:
+      label: Area of the Repo Affected
+      options:
+        - label: "GitHub Actions / CI"
+          required: false
+        - label: "Directory structure / local docs"
+          required: false
+        - label: "Markdown formatting error"
+          required: false
+        - label: "Other"
+          required: false

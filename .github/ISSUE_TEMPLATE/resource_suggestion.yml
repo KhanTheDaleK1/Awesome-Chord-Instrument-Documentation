@@ -1,0 +1,51 @@
+name: "Resource Suggestion"
+description: "Suggest a new awesome resource (Article, Video, Repair Guide, etc.)"
+title: "[Resource]: "
+labels: ["resource suggestion", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for suggesting! Please ensure your resource meets the **30-Day Rule**.
+  - type: input
+    id: resource_name
+    attributes:
+      label: Resource Name
+      placeholder: "e.g., Omnichord 101"
+    validations:
+      required: true
+  - type: input
+    id: resource_url
+    attributes:
+      label: Resource URL
+      placeholder: "e.g., https://example.com/guide"
+    validations:
+      required: true
+  - type: textarea
+    id: resource_description
+    attributes:
+      label: Why is this Awesome?
+      description: "Provide one concise sentence explaining its value."
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Suggested Category
+      description: "Which Diátaxis section should this belong to?"
+      options:
+        - Tutorials (Learning-Oriented)
+        - How-To Guides (Goal-Oriented)
+        - Reference (Information-Oriented)
+        - Explanation (Understanding-Oriented)
+    validations:
+      required: true
+  - type: checkboxes
+    id: requirements
+    attributes:
+      label: Awesome Standards
+      options:
+        - label: "This resource is at least **30 days old**."
+          required: true
+        - label: "I am ready to submit a Pull Request instead if requested."
+          required: false

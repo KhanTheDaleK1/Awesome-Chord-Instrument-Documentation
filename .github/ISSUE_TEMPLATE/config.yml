@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "Community Support"
+    url: "https://sites.google.com/view/omnihub/home"
+    about: "For general questions about Omnichords and chord instruments, check the Omnihub."
+  - name: "Submit a Pull Request"
+    url: "https://github.com/KhanTheDaleK1/Awesome-Omichord/compare"
+    about: "If you want to contribute directly, follow our contributing guide and open a PR."
