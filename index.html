@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Awesome Omnichord | 🎹✨</title>
+    <style>
+        :root {
+            /* Omnichord OM-27 Color Palette */
+            --om-beige: #e8e1d3;
+            --om-brown: #5d4037;
+            --om-lcd: #a3b18a;
+            --om-lcd-text: #2d312a;
+            --om-accent-blue: #70a1ff;
+            --om-accent-green: #7bed9f;
+            --om-accent-red: #ff6b81;
+            --om-accent-yellow: #eccc68;
+            --font-main: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            --font-retro: 'Courier New', Courier, monospace;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            background-color: var(--om-beige);
+            color: var(--om-brown);
+            font-family: var(--font-main);
+            line-height: 1.6;
+            display: flex;
+            min-height: 100vh;
+        }
+
+        /* Sidebar / Strumplate */
+        nav {
+            width: 300px;
+            background-color: var(--om-brown);
+            color: white;
+            padding: 2rem 1rem;
+            position: sticky;
+            top: 0;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            box-shadow: 5px 0 15px rgba(0,0,0,0.2);
+            z-index: 100;
+        }
+
+        nav h1 {
+            font-size: 1.5rem;
+            margin-bottom: 2rem;
+            text-align: center;
+            border: 3px solid var(--om-accent-yellow);
+            padding: 0.5rem;
+            color: var(--om-accent-yellow);
+        }
+
+        nav .strumplate {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            margin-top: 2rem;
+        }
+
+        nav .strum-bar {
+            height: 40px;
+            background: linear-gradient(90deg, #8d6e63, #5d4037);
+            border-radius: 20px;
+            cursor: pointer;
+            transition: all 0.2s;
+            display: flex;
+            align-items: center;
+            padding-left: 20px;
+            text-decoration: none;
+            color: rgba(255,255,255,0.7);
+            font-weight: bold;
+            font-size: 0.9rem;
+            border: 2px solid transparent;
+        }
+
+        nav .strum-bar:hover {
+            transform: translateX(10px);
+            background: var(--om-accent-yellow);
+            color: var(--om-brown);
+            border-color: white;
+        }
+
+        nav .strum-bar.active {
+            background: var(--om-accent-blue);
+            color: white;
+        }
+
+        /* Main Content */
+        main {
+            flex: 1;
+            padding: 4rem;
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 4rem;
+        }
+
+        .lcd-display {
+            background-color: var(--om-lcd);
+            color: var(--om-lcd-text);
+            padding: 1rem 2rem;
+            border: 5px solid var(--om-brown);
+            border-radius: 5px;
+            font-family: var(--font-retro);
+            font-weight: bold;
+            display: inline-block;
+            box-shadow: inset 0 0 10px rgba(0,0,0,0.3);
+            margin-top: 1rem;
+        }
+
+        section {
+            margin-bottom: 5rem;
+            background: white;
+            padding: 2.5rem;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+            border-left: 10px solid var(--om-brown);
+        }
+
+        section h2 {
+            margin-bottom: 1.5rem;
+            font-size: 2rem;
+            color: var(--om-brown);
+            border-bottom: 2px solid var(--om-beige);
+            padding-bottom: 0.5rem;
+        }
+
+        h3 { margin-top: 2rem; margin-bottom: 1rem; }
+
+        .resource-card {
+            background: var(--om-beige);
+            padding: 1rem;
+            border-radius: 8px;
+            margin-bottom: 1rem;
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+            transition: transform 0.2s;
+        }
+
+        .resource-card:hover {
+            transform: scale(1.02);
+        }
+
+        .resource-card a {
+            color: var(--om-brown);
+            font-weight: bold;
+            text-decoration: none;
+            font-size: 1.1rem;
+        }
+
+        .resource-card a:hover {
+            text-decoration: underline;
+        }
+
+        .tag {
+            display: inline-block;
+            padding: 2px 8px;
+            background: var(--om-brown);
+            color: white;
+            border-radius: 4px;
+            font-size: 0.75rem;
+            margin-right: 5px;
+        }
+
+        .badge {
+            font-size: 0.8rem;
+            font-weight: bold;
+        }
+
+        .status-stable { color: #2ecc71; }
+        .status-maintained { color: #3498db; }
+        .status-critical { color: #e74c3c; }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.5rem 0;
+        }
+
+        th, td {
+            text-align: left;
+            padding: 12px;
+            border-bottom: 1px solid var(--om-beige);
+        }
+
+        th {
+            background-color: var(--om-brown);
+            color: white;
+        }
+
+        /* Responsive */
+        @media (max-width: 900px) {
+            body { flex-direction: column; }
+            nav {
+                width: 100%;
+                height: auto;
+                position: relative;
+            }
+            nav .strumplate {
+                flex-direction: row;
+                overflow-x: auto;
+                padding-bottom: 1rem;
+            }
+            nav .strum-bar {
+                flex-shrink: 0;
+                width: 150px;
+            }
+            main { padding: 2rem; }
+        }
+
+        .om-footer {
+            text-align: center;
+            padding: 2rem;
+            font-family: var(--font-retro);
+            opacity: 0.7;
+        }
+    </style>
+</head>
+<body>
+
+    <nav>
+        <h1>AWESOME OMNICHORD</h1>
+        <div class="strumplate">
+            <a href="#history" class="strum-bar">HISTORY</a>
+            <a href="#tutorials" class="strum-bar">TUTORIALS</a>
+            <a href="#guides" class="strum-bar">HOW-TO GUIDES</a>
+            <a href="#reference" class="strum-bar">REFERENCE</a>
+            <a href="#projects" class="strum-bar">PROJECTS</a>
+            <a href="#safety" class="strum-bar">SAFETY</a>
+        </div>
+    </nav>
+
+    <main>
+        <header>
+            <div class="lcd-display">SYSTEM STATUS: AWESOME V1.0</div>
+            <p style="margin-top: 1.5rem; font-size: 1.2rem;">The curated collection of resources for the world's most dreamy chord instrument.</p>
+        </header>
+
+        <section id="history">
+            <h2>🏛️ History</h2>
+            <p>From the ancient Sumerian Harp to the electronic legacy of Suzuki's 1981 OM-27, chord instruments have evolved to provide the harmonic "glue" for musicians worldwide.</p>
+            <div class="resource-card">
+                <p>The Suzuki legacy began in 1953, with the Omnichord debuting in 1981 as a revolutionary consumer novelty that became an underground cult classic.</p>
+            </div>
+        </section>
+
+        <section id="tutorials">
+            <h2>📘 Tutorials</h2>
+            <div class="resource-card">
+                <a href="https://theproaudiofiles.com/suzuki-omnichord/">Omnichord 101 - History & Technique</a>
+                <p>Comprehensive breakdown of history, strumplate interface, and analog circuit translation. <span class="tag">#Article</span> <span class="tag">#Tutorial</span></p>
+            </div>
+            <div class="resource-card">
+                <a href="https://youtu.be/R7FUiJN9Ehw">Everything you've ever wanted to know about the Omnichord (Aryy)</a>
+                <p>A comprehensive beginner's guide to the entire Omnichord ecosystem. <span class="tag">#Video</span> <span class="tag">#Tutorial</span></p>
+            </div>
+        </section>
+
+        <section id="guides">
+            <h2>🛠️ How-To Guides</h2>
+            <div class="resource-card">
+                <a href="https://www.kvraudio.com/forum/viewtopic.php?t=192282">Mapping QChord Pitch Bend to VSTs</a>
+                <p>Using Piz MIDI Plugins to translate aggressive strum pitch bends into standard MIDI notes. <span class="tag">#HowTo</span></p>
+            </div>
+            <div class="resource-card">
+                <a href="https://www.keithrobertmurray.com/articles/omnichord-om-100-ps.html">Correcting Power Polarity (OM-100)</a>
+                <p>Step-by-step on replacing the 2.2-ohm resistor after a polarity mismatch. <span class="tag">#Repair</span> <span class="tag">#Critical</span></p>
+            </div>
+        </section>
+
+        <section id="reference">
+            <h2>📑 Technical Reference</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Model</th>
+                        <th>Year</th>
+                        <th>Synthesis</th>
+                        <th>Key Feature</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr><td>OM-27</td><td>1981</td><td>Hybrid Analog</td><td>First Strumplate</td></tr>
+                    <tr><td>OM-84</td><td>1984</td><td>Digital/Analog</td><td>Chord Computer</td></tr>
+                    <tr><td>OM-300</td><td>1996</td><td>PCM Wave</td><td>Pro MIDI</td></tr>
+                    <tr><td>QChord</td><td>1999</td><td>PCM Wave</td><td>Song Cartridges</td></tr>
+                    <tr><td>OM-108</td><td>2024</td><td>Analog Modeling</td><td>Modern Revival</td></tr>
+                </tbody>
+            </table>
+        </section>
+
+        <section id="projects">
+            <h2>🎨 Inspired Projects</h2>
+            <div class="resource-card">
+                <a href="https://onlineomnichord.com/">Online Omnichord (OM-27)</a>
+                <p>A realistic recreation of the original 1981 OM-27. <span class="tag">#WebEmulator</span></p>
+            </div>
+            <div class="resource-card">
+                <a href="https://minichord.com/">Minichord (Benjamin Poilvé)</a>
+                <p>An elegant, compact digital reimagining of the classic chord harp. <span class="tag">#Hardware</span></p>
+            </div>
+        </section>
+
+        <section id="safety">
+            <h2>⚠️ Power & Polarity</h2>
+            <div class="resource-card" style="border-left: 5px solid var(--om-accent-red);">
+                <p><strong>CRITICAL:</strong> Most vintage Suzuki units (Omnichords) are <strong>CENTER-NEGATIVE</strong>. Using a center-positive adapter will cause permanent damage.</p>
+            </div>
+        </section>
+
+        <footer class="om-footer">
+            <p>&copy; 2026 Awesome Omnichord Project. Built for the dreamers.</p>
+            <p><a href="https://github.com/KhanTheDaleK1/Awesome-Omichord" style="color: inherit;">View on GitHub</a></p>
+        </footer>
+    </main>
+
+    <script>
+        // Simple scroll spy for active state
+        const sections = document.querySelectorAll('section');
+        const navLinks = document.querySelectorAll('.strum-bar');
+
+        window.addEventListener('scroll', () => {
+            let current = "";
+            sections.forEach(section => {
+                const sectionTop = section.offsetTop;
+                if (pageYOffset >= sectionTop - 100) {
+                    current = section.getAttribute('id');
+                }
+            });
+
+            navLinks.forEach(link => {
+                link.classList.remove('active');
+                if (link.getAttribute('href').includes(current)) {
+                    link.classList.add('active');
+                }
+            });
+        });
+    </script>
+</body>
+</html>
