@@ -118,6 +118,22 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 - **MSRP:** $200 – $300 (Launch) | $718.99 - $1,078.49 (Inflation) | **Current Market:** <!-- PRICE_OM-27_START -->$537.50<!-- PRICE_OM-27_END -->
 - **Notable Fact:** The first true Omnichord; Suzuki produced 40,000 units in the first year alone.
 
+#### Technical Specifications
+| Feature | Details |
+| :--- | :--- |
+| **SonicStrings Strumplate** | Harp Sound. 4 Octaves |
+| **Chord Buttons** | 27 (Major, Minor, 7th) |
+| **Rhythms** | Rock, Waltz, Slow Rock, Latin, Fox Trot, Swing |
+| **Controls** | Master Volume, Harp Volume, Harp Sustain, Chord Volume Rhythm Tempo, Rhythm Volume, Tuning |
+| **Switch Buttons** | Power switch (with Pilot Lamp), 6 Rhythm switches, Syncro Start/ Rhythm Start switch, Auto Bass/Manual Chord switch, Memory switch |
+| **Auxiliary Jacks** | AC Adapter jack, Output jack |
+| **Speaker** | Built in 9,2cm speaker |
+| **Body Colour** | Brown, Ivory, Red |
+| **Power** | 12V D.C. 1.5V battery x 8pcs (SIZE C, R-14) or use Suzuki Adapter (DC12V, 400mA) |
+| **Output** | 2W |
+| **Net Weight** | 1.4Kg |
+| **Dimensions** | 520 x 280 x 50 mm |
+
 - [User Guide (Local PDF)](./docs/manuals/suzuki/om-27/owners-guide.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Local PDF owner's guide for the Suzuki OM-27. #DirectPDF #Reference
 - [User Guide (Web)](http://www.omnichord-heaven.com/owners_guides.html) ![status-stable](https://img.shields.io/badge/status-stable-green) - Web archive owner's guide for the Suzuki OM-27. #WebArchive #Reference
 - [Schematic (Primary)](https://circuitbending.miraheze.org/wiki/File:OM27_Schematic.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Primary technical schematic for the OM-27 hardware. #DirectPDF #Reference
@@ -139,6 +155,24 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 - **MSRP:** $99 (Launch) | $311.37 (Inflation) | **Current Market:** <!-- PRICE_OM-36_START -->$495.00<!-- PRICE_OM-36_END -->
 - **Notable Fact:** Known as "System One," it updated the original design with 36 chords (later expandable to 84).
 
+#### Technical Specifications
+| Feature | Details |
+| :--- | :--- |
+| **SonicStrings Strumplate** | Harp Sound, 4 Octaves |
+| **Chord Buttons** | 84 chords (Major, Minor, 7th, Major 7th, Minor 7th, Aug., Dim.) |
+| **Keyboards** | - |
+| **Chord Transpose** | - |
+| **Rhythms** | Rock 1, Rock 2, Blues, Tango, Latin, March, Swing, Disco, Country, Waltz |
+| **Controls** | Master volume, Sustain, Chord volume, Rhythm volume & tempo |
+| **Switch Buttons** | Power switch (with pilot lamp), rhythm select & 5 rhythm switches, Auto-Bass/Manual chord switch, Chord hold switch. |
+| **Auxiliary Jacks** | AC adapter jack, Output jack |
+| **Speaker** | Built in 9.2cm speaker |
+| **Body Colour** | Beige |
+| **Power** | 12V D.C. 1.5V battery x 8pcs (SIZE C, R-14) or use Suzuki Adapter (DC12V, 400mA) |
+| **Output** | 2W |
+| **Net Weight** | 1.4kg |
+| **Dimensions** | 520 x 280 x 48 mm |
+
 - [User Guide (Local PDF)](./docs/manuals/suzuki/om-36/owners-guide.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Local PDF owner's guide for the Suzuki OM-36. #DirectPDF #Reference
 - [User Guide (Web)](http://www.omnichord-heaven.com/owners_guides.html) ![status-stable](https://img.shields.io/badge/status-stable-green) - Web archive owner's guide for the Suzuki OM-36. #WebArchive #Reference
 - [Schematic (Requested)](https://github.com/KhanTheDaleK1/Awesome-Omichord/issues) ![status-critical](https://img.shields.io/badge/status-critical-red) - [Document sought; link currently unavailable] - Technical schematic for the Suzuki OM-36. #SoughtDocument #Reference
@@ -154,6 +188,24 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 - **Production:** 1984 – 1989 (Discontinued)
 - **MSRP:** $99 (Launch) | $311.37 (Inflation) | **Current Market:** <!-- PRICE_OM-84_START -->$637.50<!-- PRICE_OM-84_END -->
 - **Notable Fact:** "System Two" introduced dual strumplate voices and the first integrated chord memory sequencer.
+
+#### Technical Specifications
+| Feature | Details |
+| :--- | :--- |
+| **SonicStrings Strumplate** | 2x Harp Sound, 4 Octaves |
+| **Chord Buttons** | 84 chords (Major, Minor, 7th, Major 7th, Minor 7th, Aug., Dim.) |
+| **Keyboards** | C-g (19 keys) |
+| **Chord Transpose** | Select x 12 |
+| **Rhythms** | Rock 1, Rock 2, Blues, Tango, Latin, March, Swing, Disco, Country, Waltz |
+| **Controls** | Master volume, Coaxial volume for keyboards and chords, Sustain, Coaxial volume for Voice 1 and 2, Rhythm volume & tempo |
+| **Switch Buttons** | Power switch (with pilot lamp), rhythm select & 5 rhythm switches, Auto-Bass Sync switch, Chord memory ON/OFF switch (with pilot lamp), Playback/Record switch, Repeat/Delete switch & Playback/Enter switch. |
+| **Auxiliary Jacks** | AC adapter jack, Output jack, Foot pedal jack |
+| **Speaker** | Built in 9.2cm speaker |
+| **Body Colour** | Grey/Ivory |
+| **Power** | 12V D.C. 1.5V battery x 8pcs (SIZE C, R-14) or use Suzuki Adapter (DC12V, 400mA) |
+| **Output** | 2W |
+| **Net Weight** | 1.4kg |
+| **Dimensions** | 520 x 280 x 48 mm |
 
 - [User Guide (Local PDF)](./docs/manuals/suzuki/om-84/owners-guide.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Local PDF owner's guide for the Suzuki OM-84. #DirectPDF #Reference
 - [User Guide (Web)](https://www.popsmusic.com/uploads/3/0/6/8/30682235/om84_owners_manual.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Primary web owner's manual for the Suzuki OM-84. #DirectPDF #Reference
@@ -173,6 +225,44 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 - **Production:** 1989 – 1993 (Discontinued)
 - **MSRP:** $229 (OM-100) / $299 (OM-200M) | $603.49 / $787.97 (Inflation) | **Current Market:** <!-- PRICE_OM-100_START -->$555.00<!-- PRICE_OM-100_END --> / <!-- PRICE_OM-200M_START -->$597.50<!-- PRICE_OM-200M_END -->
 - **Notable Fact:** The OM-200M was the first model to feature native MIDI Out, enabling control of external synths.
+
+#### Technical Specifications (OM-100)
+| Feature | Details |
+| :--- | :--- |
+| **SonicStrings Strumplate** | 10 sounds: Guitar, Piano, Banjo, Jazz Organ, Flute, Organ, Chimes, Brass, Vibes & Synth. 4 Octaves |
+| **Chord Buttons** | 36 chords (Major, minor, 7th) |
+| **Keyboards** | - |
+| **Chord Transpose** | - |
+| **Rhythms** | Rock 1, Rock 2, Disco, Blues, March, Country, Latin, Bossanova, Waltz, Swing |
+| **Controls** | Master volume, Voice volume, Sustain, Rhythm volume & tempo, Chord volume |
+| **Switch Buttons** | Power switch (with pilot lamp), Voice select & 10 voice switches, Vibrato On/Off (with pilot lamp), rhythm select & 10 rhythm switches, Auto-Bass Sync switch, Chord Hold ON/OFF switch (with pilot lamp) |
+| **Tuning** | +/- 30 cents |
+| **Auxiliary Jacks** | AC adapter jack, Output jack |
+| **Speaker** | Built in 9.2cm speaker, 8 Ohm |
+| **Body Colour** | Beige |
+| **Power** | 12V D.C. 1.5V battery x 8pcs (SIZE C, R-14) or use Suzuki Adapter (DC12V, 400mA) |
+| **Output** | 7W |
+| **Net Weight** | 1.4kg |
+| **Dimensions** | 520 x 280 x 48 mm |
+
+#### Technical Specifications (OM-200M)
+| Feature | Details |
+| :--- | :--- |
+| **SonicStrings Strumplate** | 10 sounds: Guitar, Piano, Banjo, Jazz Organ, Flute, Organ, Chimes, Brass, Vibes & Synth. 4 Octaves |
+| **Chord Buttons** | 84 chords (Major, Minor, 7th, Major 7th, Minor 7th, Aug., Dim.) |
+| **Keyboards** | C-g (19 keys) |
+| **Chord Transpose** | Select x 12 |
+| **Rhythms** | Rock 1, Rock 2, Disco, Blues, March, Country, Latin, Bossanova, Waltz, Swing |
+| **Controls** | Master volume, Voice volume, Sustain, Rhythm volume & tempo, Chord volume |
+| **Switch Buttons** | Power switch (with pilot lamp), Voice select & 10 voice switches, Vibrato On/Off (with pilot lamp), rhythm select & 10 rhythm switches, Auto-Bass Sync switch, Chord Hold ON/OFF switch (with pilot lamp), Playback/Record switch, Repeat/Delete switch & Playback/Enter switch. Melody Keyboard switch |
+| **Tuning** | +/- 30 cents |
+| **Auxiliary Jacks** | AC adapter jack, Output jack, Foot pedal jack, MIDI out |
+| **Speaker** | Built in 9.2cm speaker, 8 Ohm |
+| **Body Colour** | Grey |
+| **Power** | 12V D.C. 1.5V battery x 8pcs (SIZE C, R-14) or use Suzuki Adapter (DC12V, 400mA) |
+| **Output** | 7W |
+| **Net Weight** | 1.4kg |
+| **Dimensions** | 520 x 280 x 48 mm |
 
 - [User Guide (Local PDF)](./docs/manuals/suzuki/om-100-200m/owners-guide.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Local PDF owner's guide for the Suzuki OM-100 and 200M. #DirectPDF #Reference
 - [Schematic (Local PDF)](./docs/manuals/suzuki/om-100-200m/OM100_Schematic.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Local technical schematic for the Suzuki OM-100 / OM-200M hardware. #DirectPDF #Reference
@@ -194,6 +284,46 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 - **MSRP:** ~$250 - $300 | $565.37 - $678.44 (Inflation) | **Current Market:** <!-- PRICE_OM-150_START -->$342.50<!-- PRICE_OM-150_END --> / <!-- PRICE_OM-250M_START -->$580.00<!-- PRICE_OM-250M_END -->
 - **Notable Fact:** These models refined the PCM sounds and ergonomics before the transition to the OM-300.
 
+#### Technical Specifications (OM-150)
+| Feature | Details |
+| :--- | :--- |
+| **SonicStrings Strumplate** | 10 sounds: Omnichord, Guitar, Harp, Banjo, Strings, Piano, Organ, Celeste, Marimba and Steel Drums. 4 Octaves |
+| **Chord Buttons** | 84 chords (Major, Minor, 7th, Major 7th, Minor 7th, Aug., Dim.) |
+| **Keyboards** | - |
+| **Keyboards Voices** | - |
+| **Chord Transpose** | - |
+| **Rhythms** | Rock 1, Rock 2, Rock 3, March, Jazz, Country, Bluegrass, Bossanova, Samba, Waltz |
+| **Controls** | Master volume, Voice volume, Sustain, Rhythm volume & tempo, Chord volume, Tuning |
+| **Switch Buttons** | Power switch (with pilot lamp), Voice select & 10 voice switches, Instant Off, Vibrato On/Off (with pilot lamp), rhythm select & 10 rhythm switches, Drum Start, Auto-Bass Sync switch, Chord Hold ON/OFF switch (with pilot lamp) |
+| **Tuning** | +/- 30 cents |
+| **Auxiliary Jacks** | AC adapter jack, Output jack |
+| **Speaker** | Built in 9.2cm speaker, 8 Ohm |
+| **Body Colour** | Beige |
+| **Power** | 12V D.C. 1.5V battery x 8pcs (SIZE C, R-14) or use Suzuki Adapter (DC12V, 400mA) |
+| **Output** | 7W |
+| **Net Weight** | 1.4kg |
+| **Dimensions** | 520 x 280 x 48 mm |
+
+#### Technical Specifications (OM-250M)
+| Feature | Details |
+| :--- | :--- |
+| **SonicStrings Strumplate** | 10 sounds: Omnichord, Guitar, Harp, Banjo, Strings, Piano, Organ, Celeste, Marimba and Steel Drums. 4 Octaves |
+| **Chord Buttons** | 84 chords (Major, Minor, 7th, Major 7th, Minor 7th, Aug., Dim.) |
+| **Keyboards** | C-g2 (19 keys) |
+| **Keyboards Voices** | Organ, Banjo, Trumpet, Harmonica, Piano, Electric bass, Human Voice, Marimba, Calliope and Steel Drums |
+| **Chord Transpose** | Select x 12 |
+| **Rhythms** | Rock 1, Rock 2, Rock 3, March, Jazz, Country, Bluegrass, Bossanova, Samba, Waltz |
+| **Controls** | Master volume, Voice volume, Sustain, Rhythm volume & tempo, Chord volume, Tuning |
+| **Switch Buttons** | Power switch (with pilot lamp), Voice select & 10 voice switches, Instant Off, Vibrato On/Off (with pilot lamp), rhythm select & 10 rhythm switches, Drum Fill-In, Drum Start, Auto-Bass Sync switch, Chord Hold ON/OFF switch (with pilot lamp), Playback/Record switch, Repeat/Delete switch & Playback/Enter switch. Melody Keyboard switch |
+| **Tuning** | +/- 30 cents |
+| **Auxiliary Jacks** | AC adapter jack, Output jack, Foot pedal jack, MIDI out |
+| **Speaker** | Built in 9.2cm speaker, 8 Ohm |
+| **Body Colour** | Grey |
+| **Power** | 12V D.C. 1.5V battery x 8pcs (SIZE C, R-14) or use Suzuki Adapter (DC12V, 400mA) |
+| **Output** | 7W |
+| **Net Weight** | 1.4kg |
+| **Dimensions** | 520 x 280 x 48 mm |
+
 - [User Guide (Local PDF)](./docs/manuals/suzuki/om-150-250m/owners-guide.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Local PDF owner's guide for the Suzuki OM-150 and 250M. #DirectPDF #Reference
 - [Schematic (Requested)](https://github.com/KhanTheDaleK1/Awesome-Omichord/issues) ![status-critical](https://img.shields.io/badge/status-critical-red) - [Document sought; link currently unavailable] - Technical schematic for the Suzuki OM-150 / OM-250M. #SoughtDocument #Reference
 - [User Guide (Web)](http://www.omnichord-heaven.com/owners_guides.html) ![status-stable](https://img.shields.io/badge/status-stable-green) - Web archive owner's guide for the Suzuki OM-150 and 250M. #WebArchive #Reference
@@ -209,6 +339,25 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 - **Production:** 1996 (Discontinued 1996)
 - **MSRP:** $300+ (Launch) | $624.82 (Inflation) | **Current Market:** <!-- PRICE_OM-300_START -->$660.00<!-- PRICE_OM-300_END -->
 - **Notable Fact:** Extremely rare final original model; its drum preset is the foundation of the Gorillaz hit "Clint Eastwood."
+
+#### Technical Specifications
+| Feature | Details |
+| :--- | :--- |
+| **SonicStrings Strumplate** | 10 sounds: Omnichord, Guitar, Harp, Banjo, Strings, Piano, Organ, Celesta, Marimba and Steel Drums. 4 Octaves |
+| **Chord Buttons** | 36 soft touch buttons, 84 chords (Major, Minor, 7th, Major 7th, Minor 7th, Aug., Dim.) |
+| **Keyboards** | C-g (19 keys) |
+| **Chord Transpose** | Select x 12 |
+| **Rhythms** | Rock I, II, III, March, Jazz, Country, Bluegrass, Bossnova, Samba & Waltz |
+| **Controls** | Master volume, Voice volume, Sustain, Rhythm volume & tempo, Chord volume |
+| **Switch Buttons** | Power switch (with pilot lamp), Voice select & 10 voice switches, Vibrato On/Off (with pilot lamp), rhythm select & 10 rhythm switches, Auto-Bass Sync switch, Chord Hold ON/OFF switch (with pilot lamp), Playback/Record switch, Repeat/Delete switch & Playback/Enter switch. Melody Keyboard switch |
+| **Tuning** | +/- 30 cents |
+| **Auxiliary Jacks** | AC adapter jack, Output jack, Foot pedal jack, MIDI out |
+| **Speaker** | Built in 9.2cm speaker, 8 Ohm |
+| **Body Colour** | Grey |
+| **Power** | 12V D.C. 1.5V battery x 8pcs (SIZE C, R-14) or use Suzuki Adapter (DC12V, 400mA) |
+| **Output** | 7W |
+| **Net Weight** | 1.4kg |
+| **Dimensions** | 520 x 280 x 48 mm |
 
 - [User Guide (Local PDF)](./docs/manuals/suzuki/om-300/owners-guide.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Local PDF owner's guide for the Suzuki OM-300. #DirectPDF #Reference
 - [User Guide (Primary)](https://device.report/Omnichord/OM300) ![status-stable](https://img.shields.io/badge/status-stable-green) - Primary web-viewable owner's guide for the Suzuki OM-300. #WebView #Reference
@@ -227,6 +376,26 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 - **MSRP:** $250 (Launch) | $490.37 (Inflation) | **Current Market:** <!-- PRICE_QCHORD_START -->$580.00<!-- PRICE_QCHORD_END -->
 - **Notable Fact:** A digital reimagining with 100 voices and a QCard expansion slot for proprietary song cartridges.
 
+#### Technical Specifications
+| Feature | Details |
+| :--- | :--- |
+| **Strumplate Range** | 4 Octaves |
+| **Strumplate Voices** | 100 |
+| **Melody Keyboard Voices** | 100 |
+| **Chord Buttons** | 36 Soft Touch buttons, 84 chords (Major, Minor, 7th, Major 7th, Minor 7th, Aug., Dim.) |
+| **Rhythms** | Bossanova, Country, Dance Jazz, New Age, March, Waltz, Ballad, Rock, Blues, Shuffle (Expandable via QCard) |
+| **Accompaniment** | 4 Channel: Drum, Bass, Chord & Chord Plus, all with individual control |
+| **Effects** | Reverb and Vibrato (with adjustable depth control), Pitch Bend Wheel |
+| **QCard Port** | Optional Song Cards (Lyric, Chord & Melody) and Style Cards |
+| **Variable Controls** | Master Volume, Strumplate Volume, Strumplate Sustain, Rhythm volume/tempo, Bass/Chord/Chord Plus volume, Reverb/Vibrato Depth, Pitch Bend, Transpose, Tuning, Octave Shift |
+| **Button Controls** | Power, Demo, Voice/Style Select, Rhythm Fill/Intro/End, Start/Stop, Qcard controls, Midi Expander |
+| **Other Functions** | Rhythm Fill, Rhythm Intro/End, Pitch Bend Wheel, Midi In & Out |
+| **Display** | Two Digit LD, Two LED Light Bar, 12 LED's |
+| **Power Output** | 7 Watts, 5" Oval Speaker and Bass Port |
+| **Power** | 12V D.C. 8 x SIZE C, R-14 batteries or AC Adapter |
+| **Jacks** | DC Power in, 1/4" Line Out/Headphone, MIDI In & Out |
+| **Includes** | Keyboard Overlay, Cleaning Cloth, Qchord Manual |
+
 - [User Guide (Local PDF)](./docs/manuals/suzuki/qchord/owners-guide.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Local PDF owner's guide for the Suzuki QChord QC-1. #DirectPDF #Reference
 - [Service Manual & Schematic (Local PDF)](./docs/manuals/suzuki/qchord/Q-Chord-Schematic.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Local high-fidelity service manual and technical schematics for the QChord. #DirectPDF #Reference
 - [User Guide (Primary)](https://www.omnichord-heaven.com/downloads/manuals/qchord-manual.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Primary web owner's manual for the Suzuki QChord. #DirectPDF #Reference
@@ -243,6 +412,27 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 - **Production:** 2024 – Present (Active)
 - **MSRP:** $800+ (Launch) | $832.10 (Inflation) | **Current Market:** <!-- PRICE_OM-108_START -->$645.00<!-- PRICE_OM-108_END -->
 - **Notable Fact:** While the OM-108 is a digital instrument, Suzuki went to great lengths to recreate the specific analog-voiced sounds of the 1981 OM-84. It uses a "PCM" sound engine that mimics the warm, lo-fi aesthetic of the original hardware rather than trying to sound like a high-end modern synthesizer.
+
+#### Technical Specifications
+| Feature | Details |
+| :--- | :--- |
+| **SonicStrings Strumplate** | **Main Voice:** Omnichord 1, Omnichord 2, Harp, Celeste, Acoustic Piano, Guitar, FM Piano, Organ, Vibes, Banjo. <br> **Sub Voice:** Omnichord (+ vibrato), Mellow Synth, Synth Strings, Orch Strings. |
+| **Strumplate Range** | Four Octaves |
+| **Chord Buttons** | 38 soft touch buttons, 108 chords (Major, Minor, 7th, Maj 7th, Min 7th, Aug., Dim., Sus4, Add9) |
+| **Keyboards** | C to G (19 Keys). Range: Three Octaves (selectable) |
+| **Chord Transpose** | 1 Octave (6 semitones down and 6 up) |
+| **Rhythms** | Rock I, Rock 2, Slow Rock, Country, Swing, Disco, Hip Hop, Funk, Bossanova, Waltz |
+| **Rotary Controls** | Master Volume, Chord Volume, Main Voice Volume, Sub Voice Volume, Sustain, Rhythm Volume, Tempo |
+| **Switch Buttons** | Power, Chord, KEYBOARD ON/OFF, Voice Select, Rhythm Select, Chord-Manual/Auto, Chord Hold, Rhythm-Start / Sync Start |
+| **Other Functions** | Instant OFF, Transpose, Octave Shift, ON/OFF SPEAKER, Master Tuning |
+| **Tuning** | +6/-6 |
+| **Jacks** | DC inlet, LINE OUT (monaural standard), headphone output (Stereo mini), MIDI OUT |
+| **Speaker** | 10cm round |
+| **Power** | AC adapter or 8 AA alkaline/Ni-MH batteries. Consumption: 3.7W. Battery life: ~8 hours. |
+| **Output** | 4.3W |
+| **Net Weight** | 1.2kg (2.65lb) |
+| **Dimensions** | 45.7 x 25.0 x 5.18 cm (17.99 x 9.84 x 2.04 in.) |
+| **Inc. Accessories** | Melody keyboard overlay |
 
 - [Official Product Page (Landing)](https://www.suzuki-music.co.jp/special/omnichord_om-108/en/index.html) ![status-stable](https://img.shields.io/badge/status-stable-green) - Official Suzuki landing page for the OM-108. #Official #Reference
 - [Official Manual (Local PDF)](./docs/manuals/suzuki/om-108/owners-guide.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Local PDF owner's manual for the Suzuki OM-108. #DirectPDF #Reference
