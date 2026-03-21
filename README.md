@@ -144,6 +144,13 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 | **Power** | 12V DC (Center-Negative) |
 | **Dimensions** | 520 x 280 x 50 mm |
 
+#### Compatible Accessories
+- **OCA Mains Adapter:** Official power supply (12V DC, Center-Negative).
+- **OCC1 Silver Padded Gig Bag:** Vinyl gig bag with strap, Omnichord logo, and zipped outside compartment.
+- **OCC2 Hard Carry Case:** Premium locking case in brown leatherette with gold logo and plush lined interior.
+- **OCS-7 Amplified Speaker:** External amplified speaker system.
+- **OCM-3 Microphone:** Dedicated microphone for vocal/instrument capture.
+
 - [User Guide (Local PDF)](./docs/manuals/suzuki/om-27/owners-guide.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Local PDF owner's guide for the Suzuki OM-27. #DirectPDF #Reference
 - [User Guide (Web)](http://www.omnichord-heaven.com/owners_guides.html) ![status-stable](https://img.shields.io/badge/status-stable-green) - Web archive owner's guide for the Suzuki OM-27. #WebArchive #Reference
 - [Schematic (Primary)](https://circuitbending.miraheze.org/wiki/File:OM27_Schematic.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Primary technical schematic for the OM-27 hardware. #DirectPDF #Reference
@@ -178,6 +185,12 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 | **Power** | 12V DC (Center-Negative) |
 | **Dimensions** | 520 x 280 x 48 mm |
 
+#### Compatible Accessories
+- **OCA Mains Adapter:** Official power supply (12V DC, Center-Negative).
+- **OMC-2 Hard Shell Case:** Rugged, "indestructible" plastic carry case.
+- **OFS-2 Footswitch:** Footswitch for starting and stopping the Chord Sequencer.
+- **OSH-84 Songbook:** "Omnichord Spoken Here" official songbook.
+
 - [User Guide (Local PDF)](./docs/manuals/suzuki/om-36/owners-guide.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Local PDF owner's guide for the Suzuki OM-36. #DirectPDF #Reference
 - [User Guide (Web)](http://www.omnichord-heaven.com/owners_guides.html) ![status-stable](https://img.shields.io/badge/status-stable-green) - Web archive owner's guide for the Suzuki OM-36. #WebArchive #Reference
 - [Schematic (Requested)](https://github.com/KhanTheDaleK1/Awesome-Omichord/issues) ![status-critical](https://img.shields.io/badge/status-critical-red) - [Document sought; link currently unavailable] - Technical schematic for the Suzuki OM-36. #SoughtDocument #Reference
@@ -206,6 +219,12 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 | **Switch Buttons** | Power, Auto-Bass Sync, Chord Memory, Record/Playback controls |
 | **Auxiliary Jacks** | AC adapter, Output, Foot pedal jack |
 | **Dimensions** | 520 x 280 x 48 mm |
+
+#### Compatible Accessories
+- **OCA Mains Adapter:** Official power supply (12V DC, Center-Negative).
+- **OMC-2 Hard Shell Case:** Rugged, "indestructible" plastic carry case.
+- **OFS-2 Footswitch:** Footswitch for starting and stopping the Chord Sequencer.
+- **OSH-84 Songbook:** "Omnichord Spoken Here" official songbook.
 
 - [User Guide (Local PDF)](./docs/manuals/suzuki/om-84/owners-guide.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Local PDF owner's guide for the Suzuki OM-84. #DirectPDF #Reference
 - [User Guide (Web)](https://www.popsmusic.com/uploads/3/0/6/8/30682235/om84_owners_manual.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Primary web owner's manual for the Suzuki OM-84. #DirectPDF #Reference
@@ -246,6 +265,17 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 | **Chord Computer** | Record/Playback functionality |
 | **Rhythms** | 10 Styles + Drum Fill |
 
+#### Compatible Accessories
+- **OCA-7 A.C. Adapter:** Official power supply (12V DC, Center-Negative).
+- **OCD-7 D.C. Car Adapter:** Power adapter for mobile/in-car use.
+- **OVP-7 Vinyl Carry Bag:** Stylish two-tone grey vinyl bag with strap.
+- **OMC-7 Hard Shell Case:** Rugged hard-shell carry case.
+- **OFS-7 Foot Switch:** Dedicated footswitch (compatible with OM-200M only).
+- **MPS-100 Adjustable Stand:** Official mounting stand.
+- **OMA-10 / OMA-20 Powered Speakers:** 10W and 20W external amplified speakers.
+- **OMM-2 Microphone:** High-impedance microphone for vocal accompaniment.
+- **Official Songbooks:** OS-7 "Omnichord Spoken Here" (200 pages), JFK-7 "Just For Kids," EF-7 "Enduring Faith," and OC-7 "Omnichord Country."
+
 - [User Guide (Local PDF)](./docs/manuals/suzuki/om-100-200m/owners-guide.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Local PDF owner's guide for the Suzuki OM-100 and 200M. #DirectPDF #Reference
 - [Schematic (Local PDF)](./docs/manuals/suzuki/om-100-200m/OM100_Schematic.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Local technical schematic for the Suzuki OM-100 / OM-200M hardware. #DirectPDF #Reference
 - [User Guide (Web)](http://www.omnichord-heaven.com/owners_guides.html) ![status-stable](https://img.shields.io/badge/status-stable-green) - Web archive owner's guide for the Suzuki OM-100 and 200M. #WebArchive #Reference
@@ -277,6 +307,17 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 | **MIDI** | MIDI Out (OM-250M only) |
 | **Dimensions** | 520 x 280 x 48 mm |
 
+#### Compatible Accessories
+- **OCA-7 A.C. Adapter:** Official power supply (12V DC, Center-Negative).
+- **OCD-7 D.C. Car Adapter:** Power adapter for mobile/in-car use.
+- **OVP-7 Vinyl Carry Bag:** Stylish two-tone grey vinyl bag with strap.
+- **OMC-7 Hard Shell Case:** Rugged hard-shell carry case.
+- **OFS-7 Foot Switch:** Dedicated footswitch (compatible with OM-250M only).
+- **MPS-100 Adjustable Stand:** Official mounting stand.
+- **OMA-10 / OMA-20 Powered Speakers:** 10W and 20W external amplified speakers.
+- **OMM-2 Microphone:** High-impedance microphone for vocal accompaniment.
+- **Official Songbooks:** OS-7 "Omnichord Spoken Here" (200 pages), JFK-7 "Just For Kids," EF-7 "Enduring Faith," and OC-7 "Omnichord Country."
+
 - [User Guide (Local PDF)](./docs/manuals/suzuki/om-150-250m/owners-guide.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Local PDF owner's guide for the Suzuki OM-150 and 250M. #DirectPDF #Reference
 - [Schematic (Requested)](https://github.com/KhanTheDaleK1/Awesome-Omichord/issues) ![status-critical](https://img.shields.io/badge/status-critical-red) - [Document sought; link currently unavailable] - Technical schematic for the Suzuki OM-150 / OM-250M. #SoughtDocument #Reference
 - [User Guide (Web)](http://www.omnichord-heaven.com/owners_guides.html) ![status-stable](https://img.shields.io/badge/status-stable-green) - Web archive owner's guide for the Suzuki OM-150 and 250M. #WebArchive #Reference
@@ -303,6 +344,17 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 | **MIDI** | Native MIDI Out |
 | **Controls** | Master, Voice, Sustain, Rhythm Tempo/Volume, Chord Volume |
 | **Body Colour** | Beige |
+
+#### Compatible Accessories
+- **OCA-7 A.C. Adapter:** Official power supply (12V DC, Center-Negative).
+- **OCD-7 D.C. Car Adapter:** Power adapter for mobile/in-car use.
+- **OVP-7 Vinyl Carry Bag:** Stylish two-tone grey vinyl bag with strap.
+- **OMC-7 Hard Shell Case:** Rugged hard-shell carry case.
+- **OFS-7 Foot Switch:** Dedicated footswitch for performance control.
+- **MPS-100 Adjustable Stand:** Official mounting stand.
+- **OMA-10 / OMA-20 Powered Speakers:** 10W and 20W external amplified speakers.
+- **OMM-2 Microphone:** High-impedance microphone for vocal accompaniment.
+- **Official Songbooks:** OS-7 "Omnichord Spoken Here" (200 pages), JFK-7 "Just For Kids," EF-7 "Enduring Faith," and OC-7 "Omnichord Country."
 
 - [User Guide (Local PDF)](./docs/manuals/suzuki/om-300/owners-guide.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Local PDF owner's guide for the Suzuki OM-300. #DirectPDF #Reference
 - [User Guide (Primary)](https://device.report/Omnichord/OM300) ![status-stable](https://img.shields.io/badge/status-stable-green) - Primary web-viewable owner's guide for the Suzuki OM-300. #WebView #Reference
@@ -331,6 +383,15 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 | **Performance** | Pitch Bend Wheel, Transpose, Octave Shift |
 | **Power** | 8 x C batteries or 12V DC (Center-Negative) |
 
+#### Compatible Accessories
+- **QCC Moulded Case:** Indestructible matching case; holds adapters, cartridges, and books.
+- **QCA A/C Adapter:** Official QChord power adapter.
+- **QCS Adjustable Strap:** Embroidered QChord logo strap.
+- **QCTS Suzuki T-Shirt:** Official Suzuki logo apparel.
+- **QSB Songbooks:** Series of 10 books (QSB-1 to QSB-10) covering Country, Lennon & McCartney, Religious Standards, and the 96-page "Big Book of Songs."
+- **QSC Song Cartridges:** 13 cartridges (QSC-1 to QSC-13) providing background and melody for various genres.
+- **QRC Rhythm Style Cartridges:** QRC-1 adds 30 additional rhythm styles with backing.
+
 - [User Guide (Local PDF)](./docs/manuals/suzuki/qchord/owners-guide.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Local PDF owner's guide for the Suzuki QChord QC-1. #DirectPDF #Reference
 - [Service Manual & Schematic (Local PDF)](./docs/manuals/suzuki/qchord/Q-Chord-Schematic.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Local high-fidelity service manual and technical schematics for the QChord. #DirectPDF #Reference
 - [User Guide (Primary)](https://www.omnichord-heaven.com/downloads/manuals/qchord-manual.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Primary web owner's manual for the Suzuki QChord. #DirectPDF #Reference
@@ -358,6 +419,11 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 | **Connectivity** | MIDI OUT, 1/4" Mono Line Out, 1/8" Stereo Headphone |
 | **Controls** | Tactile rotary knobs for Volume, Mix, Sustain, Tempo |
 | **Power** | 8 x AA batteries or 12V DC (Center-Negative) |
+
+#### Compatible Accessories
+- **OMA-1 Adapter:** Official AC power adapter for the OM-108.
+- **OGB-108 Gig Bag:** Dedicated padded carry bag for transport and protection.
+- **OSB-10 Strap Button:** Official strap button kit for performance use.
 
 - [Official Product Page (Landing)](https://www.suzuki-music.co.jp/special/omnichord_om-108/en/index.html) ![status-stable](https://img.shields.io/badge/status-stable-green) - Official Suzuki landing page for the OM-108. #Official #Reference
 - [Official Manual (Local PDF)](./docs/manuals/suzuki/om-108/owners-guide.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Local PDF owner's manual for the Suzuki OM-108. #DirectPDF #Reference
